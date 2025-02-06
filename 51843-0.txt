@@ -1,107 +1,32 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+*** START OF THE PROJECT GUTENBERG EBOOK 51843 ***
 
-<html xmlns="http://www.w3.org/1999/xhtml">
-  <head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
-    <title>
-      The Project Gutenberg eBook of The Oregon Question, by Albert Gallatin.
-    </title>
-    <style type="text/css">
+THE OREGON QUESTION.
 
-    p {  margin-top: .75em;
-         text-align: justify;
-         margin-bottom: .75em;
-         }
+BY
 
-    p.bold {text-align: center; font-weight: bold;}
-    p.bold2 {text-align: center; font-weight: bold; font-size: 150%;}
-
-    h1,h2,h3,h4,h5,h6 {
-         text-align: center; /* all headings centered */
-         clear: both;
-         }
-    h1 span, h2 span { display: block; text-align: center; }
-    #id1 { font-size: smaller }
+ALBERT GALLATIN.
 
 
-    hr {
-        width: 33%;
-        margin-top: 2em;
-        margin-bottom: 2em;
-        margin-left: 33.5%;
-        margin-right: 33.5%;
-        clear: both;
-    }
+NEW YORK:
+BARTLETT & WELFORD, 7 ASTOR HOUSE.
 
-    hr.smler {
-        width: 15%;
-        margin-top: 2em;
-        margin-bottom: 2em;
-        margin-left: 42.5%;
-        margin-right: 42.5%;
-        clear: both;
-    }
+1846.
 
-    body{margin-left: 10%;
-         margin-right: 10%;
-        }
 
-    table {margin-left: auto; margin-right: auto; padding: 5px; border-collapse: collapse; border: none; text-align: right;}
+R. CRAIGHEAD, PRINTER, 112 FULTON STREET, NEW YORK.
 
-    .pagenum  { /* uncomment the next line for invisible page numbers */
-            /*  visibility: hidden;  */
-                position: absolute;
-                left: 92%;
-                font-size: smaller;
-                text-align: right;
-                text-indent: 0px;
-              } /* page numbers */
 
-    .center   {text-align: center;}
-    .space-above {margin-top: 3em;}
-    .left             {text-align: left;}
 
-    </style>
-  </head>
-<body>
-<div>*** START OF THE PROJECT GUTENBERG EBOOK 51843 ***</div>
 
-<div class="center"><a name="cover.jpg" id="cover.jpg"></a><img src="images/cover.jpg" alt="cover" /></div>
+THE OREGON QUESTION.
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_1" id="Page_1">[Pg 1]</a></span></p>
 
-<h1>THE<br />OREGON QUESTION.</h1>
 
-<p class="bold space-above">BY</p>
+NUMBER I.
 
-<p class="bold2 space-above">ALBERT GALLATIN.</p>
 
-<hr class="smler" />
-
-<p class="bold space-above">NEW YORK:<br />BARTLETT &amp; WELFORD, 7 ASTOR HOUSE.</p>
-
-<p class="bold">1846.</p>
-
-<hr />
-
-<p><span class='pagenum'><a name="Page_2" id="Page_2">[Pg 2]</a></span></p>
-
-<hr class="smler" />
-
-<p class="center">R. CRAIGHEAD, PRINTER, 112 FULTON STREET, NEW YORK.</p>
-
-<hr />
-
-<p><span class='pagenum'><a name="Page_3" id="Page_3">[Pg 3]</a></span></p>
-
-<p class="bold2">THE OREGON QUESTION.</p>
-
-<h2>NUMBER I.</h2>
-
-<p>I had been a pioneer in collecting facts and stating the case. The only
+I had been a pioneer in collecting facts and stating the case. The only
 materials within my reach consisted of the accounts of voyages
 previously published, (including that of Maurelle, in Barrington's
 Miscellanies), of the varied and important information derived from
@@ -115,29 +40,29 @@ better analyzed, and some errors rectified. Arguments which had been
 only indicated have been enforced, and new views have been suggested.
 The subject, indeed, seems to be exhausted; and it would be difficult to
 add anything to the able correspondence between the two Governments
-which has been lately published.</p>
+which has been lately published.
 
-<p>Ministers charged with diplomatic discussions are not, however, in those
+Ministers charged with diplomatic discussions are not, however, in those
 official papers intended for publication, to be considered as
 philosophers calmly investigating the questions, with no other object
 but to elicit truth. They are always, to a certain extent, advocates,
-who use their best endeavors to urge and even strain the<span class='pagenum'><a name="Page_4" id="Page_4">[Pg 4]</a></span> reasons that
+who use their best endeavors to urge and even strain the reasons that
 may be alleged in favor of the claims set up by their Governments; and
 in the same manner to repel, if not to deny, all that may be adduced by
 the other party. Such official papers are in fact appeals to public
 opinion, and generally published when there remains no hope to conclude
-for the present an amicable arrangement.</p>
+for the present an amicable arrangement.
 
-<p>But, though acting in that respect as advocates, diplomatists are
+But, though acting in that respect as advocates, diplomatists are
 essentially ministers of peace, whose constant and primary duty is
 mutually to devise conciliatory means for the adjustment of conflicting
 pretensions, for the continuance of friendly relations, for preventing
 war, or for the restoration of peace. It has unfortunately happened that
 on this occasion, both Governments have assumed such absolute and
 exclusive grounds as to have greatly increased, at least for the
-present, the obstacles to an amicable arrangement.</p>
+present, the obstacles to an amicable arrangement.
 
-<p>It is morally impossible for the bulk of the people of any country
+It is morally impossible for the bulk of the people of any country
 thoroughly to investigate a subject so complex as that of the respective
 claims to the Oregon territory; and, for obvious reasons, it is much
 less understood by the great mass of the population in England than in
@@ -156,22 +81,22 @@ accompanied by corresponding measures, must necessarily lead to
 immediate collisions, and probably to war. Yet, a war so calamitous in
 itself, so fatal to the general interests of both countries, is almost
 universally deprecated, without distinction of parties, by all the
-rational men who are not carried away by the warmth of their feelings.</p>
+rational men who are not carried away by the warmth of their feelings.
 
-<p>In the present state of excitement, an immediate amicable <span class='pagenum'><a name="Page_5" id="Page_5">[Pg 5]</a></span>arrangement
+In the present state of excitement, an immediate amicable arrangement
 is almost hopeless; time is necessary before the two Governments can be
 induced to recede from their extreme pretensions. In the meanwhile,
 nothing, as it seems to me, should for the present be done, which might
 increase the excitement, aggravate the difficulties, or remove the only
-remaining barrier against immediate collision.</p>
+remaining barrier against immediate collision.
 
-<p>The United States claim a right of sovereignty over the whole territory.
+The United States claim a right of sovereignty over the whole territory.
 The pretensions of the British Government, so far as they have been
 heretofore exhibited, though not extending to a claim of absolute
 sovereignty over the whole, are yet such as cannot be admitted by the
-United States, and, if persisted in, must lead to a similar result.</p>
+United States, and, if persisted in, must lead to a similar result.
 
-<p>If the claim of Great Britain be properly analyzed, it will be found
+If the claim of Great Britain be properly analyzed, it will be found
 that, although she has incidentally discussed other questions, she in
 fact disregards every other claim but that of actual occupancy, and that
 she regards as such the establishment of trading factories by her
@@ -185,14 +110,14 @@ defenceless territory, with a single port, and the reciprocal offers of
 what are called free ports, cannot be viewed but as derisory. An
 amicable arrangement by way of compromise cannot be effected without a
 due regard to the claims advanced by both parties, and to the expediency
-of the dividing line.<a name="FNanchor_1_1" id="FNanchor_1_1"></a><a href="#Footnote_1_1" class="fnanchor">[1]</a></p>
+of the dividing line.[1]
 
-<p>An equitable division must have reference not only to the extent of
+An equitable division must have reference not only to the extent of
 territory, but also to the other peculiar advantages attached to each
-portion respectively.</p>
+portion respectively.
 
-<p>From and including Fuca Straits, the country extending northwardly
-abounds with convenient sea-ports. From the 42d degree<span class='pagenum'><a name="Page_6" id="Page_6">[Pg 6]</a></span> of latitude to
+From and including Fuca Straits, the country extending northwardly
+abounds with convenient sea-ports. From the 42d degree of latitude to
 those Straits, there is but one port of any importance, the mouth of the
 River Columbia; and this is of difficult and dangerous access, and
 cannot admit ships of war of a large size. It is important only as a
@@ -208,14 +133,14 @@ it offered, in common with herself. It is really unnecessary to dwell on
 the consequences of such an arrangement. It is sufficient to say that,
 in case of war between the two countries, it would leave the United
 States without a single port, and give to Great Britain the indisputable
-and exclusive control over those seas and their commerce.</p>
+and exclusive control over those seas and their commerce.
 
-<p>The first and indispensable step towards an amicable arrangement
+The first and indispensable step towards an amicable arrangement
 consists in the investigation, not so much of the superiority of one
 claim over the other, as of the question whether there be sufficient
-grounds to sustain the exclusive pretensions of either Government.</p>
+grounds to sustain the exclusive pretensions of either Government.
 
-<p>If the claim of the United States to the whole of the contested
+If the claim of the United States to the whole of the contested
 territory can be sustained against Great Britain, or if the pretensions
 of this Power can to their full extent be maintained against the United
 States, it must be, by either party assuming that the other has no
@@ -226,12 +151,12 @@ should yield what it considers as its absolute right. But, if there be
 any such debatable questions, the way is still open for negotiations;
 and both powers may recede from their extreme pretensions, without any
 abandonment of positive rights, without disgrace, without impairing
-national honor and dignity.</p>
+national honor and dignity.
 
-<p>It has been asserted that the title of the United States to the whole
+It has been asserted that the title of the United States to the whole
 Oregon territory was maintained by irrefragable facts and arguments.
-These must be sought for in the correspondence lately<span class='pagenum'><a name="Page_7" id="Page_7">[Pg 7]</a></span> published. They
-consist&mdash;first, of the assertion of the ancient claim of Spain to the
+These must be sought for in the correspondence lately published. They
+consist--first, of the assertion of the ancient claim of Spain to the
 absolute sovereignty over the whole north-west coast of America as far
 north as the 61st degree of north latitude. Secondly, of the cumulated
 proofs which sustain the claims of the United States to the various
@@ -241,9 +166,9 @@ the refutation of the arguments adduced by the other party. The first
 mentioned position would, if it could be sustained, be sufficient to
 prove, and is, as I think, the only one that could prove, the absolute
 and complete right of the United States to the whole contested
-territory.</p>
+territory.
 
-<p>It is undoubtedly true that "Spain considered the northwest coast of
+It is undoubtedly true that "Spain considered the northwest coast of
 America as exclusively her own;" that this claim "had been asserted by
 her, and maintained with the most vigilant jealousy, ever since the
 discovery of the American continent, or nearly three centuries, as far
@@ -254,9 +179,9 @@ Secretary of State has abstained from discussing the principle; but he
 has said that the claim of Spain to sovereignty "had never been
 seriously questioned by any European nation: that it had been acquiesced
 in by all European Governments." This appears to me the most vulnerable
-part of his arguments.</p>
+part of his arguments.
 
-<p>The early charters of the British monarchs to the colonies bordering on
+The early charters of the British monarchs to the colonies bordering on
 the Atlantic, extended from sea to sea, from the Atlantic to the Pacific
 ocean, with the single exception which excluded from the grants the
 places actually occupied by the subjects of any Christian nation. The
@@ -265,19 +190,19 @@ to the sovereignty of the whole coast bordering on the Pacific was
 utterly disregarded. Had that claim been considered as unquestionable,
 had it been acquiesced in, it never could have been supposed that, in
 any case whatever, England could have a right to bestow on her subjects
-a single foot of land bordering on the Pacific.</p>
+a single foot of land bordering on the Pacific.
 
-<p>Coming down to modern times, the only nations which have set up any
-claims or attempted any settlements on the Pacific, north of<span class='pagenum'><a name="Page_8" id="Page_8">[Pg 8]</a></span> the
+Coming down to modern times, the only nations which have set up any
+claims or attempted any settlements on the Pacific, north of the
 country actually occupied by the Spaniards, are Russia, Great Britain,
 and the United States. All three have asserted claims to the
 northwestern coasts of America, irreconcilable with the universal
 sovereignty claimed by Spain: Russia and England, from the time when
 their flags first floated along the coast and their subjects landed on
 its shores; the United States from a similar date, or at least from the
-time when they acquired Louisiana.</p>
+time when they acquired Louisiana.
 
-<p>If the right of Spain was absolute and exclusive to the whole, there was
+If the right of Spain was absolute and exclusive to the whole, there was
 no reason why it should not have extended beyond the 61st degree of
 latitude. The right of Russia was founded only on her discoveries and
 the establishment of some trading factories. She respected the right of
@@ -292,9 +217,9 @@ be also observed, that, since Spain still claimed as far north as the
 factories when first visited by Spanish navigators), the United States,
 if they believed the Spanish right absolute and exclusive, ought not to
 have ceded to Russia a country extending more than six degrees of
-latitude along the shores of the Pacific.</p>
+latitude along the shores of the Pacific.
 
-<p>Great Britain contested the exclusive claim of Spain from the year 1778,
+Great Britain contested the exclusive claim of Spain from the year 1778,
 the date of Cook's third voyage; and he was the first British navigator
 that had for more than two centuries appeared on those coasts. This
 doctrine she has maintained ever since. She did not resist the exclusive
@@ -305,20 +230,20 @@ had been forcibly taken by the Spanish Government. She even threatened
 war; and the Nootka convention was the result of those transactions.
 Whatever construction may at this time be given to that instrument, it
 is certain at least that Spain by it conceded a portion of the absolute
-and sovereign right she had till then asserted; that she yielded the<span class='pagenum'><a name="Page_9" id="Page_9">[Pg 9]</a></span>
+and sovereign right she had till then asserted; that she yielded the
 right of trade with the natives on all that part of the coast lying
 north of her actual settlements; and that, by suffering the ultimate
 right of sovereignty to remain in abeyance, she made that pretension
-questionable which she had contended could not be called in question.</p>
+questionable which she had contended could not be called in question.
 
-<p>With respect to the United States, without recurring to former
+With respect to the United States, without recurring to former
 negotiations which were not attended with any result, it is sufficient
 to advert to the convention between them and Great Britain of the year
 1818, concluded prior to the date of the treaty by which they acquired
 the claims of Spain to the territory north of the 42d degree of north
-latitude.</p>
+latitude.
 
-<p>The United States at that time distinctly claimed, in their own right
+The United States at that time distinctly claimed, in their own right
 and independent of the Spanish claims, that the boundary along the 49th
 parallel, which had been agreed on as that between them and Great
 Britain, from the Lake of the Woods to the Stony Mountains, should be
@@ -338,11 +263,11 @@ claims were in a great degree derived from a similar source. But the
 convention decisively proves that the United States did not acquiesce in
 the antiquated claim of Spain to the absolute and exclusive sovereignty
 of the whole country; since, if they had recognized that prior claim to
-the whole, they could have had none whatever to any portion of it.</p>
+the whole, they could have had none whatever to any portion of it.
 
-<p>It is therefore undeniable that the assertion of the Spanish claim of
+It is therefore undeniable that the assertion of the Spanish claim of
 absolute sovereignty cannot be sustained by a presumed acquiescence on
-the part of the only nations which now claim the<span class='pagenum'><a name="Page_10" id="Page_10">[Pg 10]</a></span> country. It may
+the part of the only nations which now claim the country. It may
 perhaps be said that their opposition came too late, and that they
 neglected too long to protest against the Spanish pretension on the
 Pacific. No stress will be laid on Drake's voyage, which had a warlike
@@ -365,9 +290,9 @@ Cook's third voyage, hardly extended beyond the Mississippi. What
 immediate interest could then have impelled either France or England to
 enter a formal protest against the antiquated claim of Spain to a
 country with which they had never attempted even to trade? And what
-opportunity had occurred for doing it prior to Cook's voyage?</p>
+opportunity had occurred for doing it prior to Cook's voyage?
 
-<p>But, what is still more conclusive, the country in question was equally
+But, what is still more conclusive, the country in question was equally
 neglected by Spain herself. Some exploring voyages, few of which are
 authentic, were indeed made by Spanish navigators; and the claims which
 may be derived from their discoveries have now been transferred to the
@@ -377,18 +302,18 @@ competitor on the Pacific, there was on her part no occupancy, no
 settlement, or attempt to make a settlement. She had some missions on
 the western coast of the peninsula of California: but her missions or
 settlements in Northern or New California are of quite recent date; that
-of the most southern (San Diego) in 1769, and that of the most northern<span class='pagenum'><a name="Page_11" id="Page_11">[Pg 11]</a></span>
+of the most southern (San Diego) in 1769, and that of the most northern
 (San Francisco) in 1776, two years only before Cook's arrival at Nootka
-Sound.</p>
+Sound.
 
-<p>In point of fact, the contested territory had been utterly neglected by
+In point of fact, the contested territory had been utterly neglected by
 Spain. All the energies, such as they were, of her Mexican colonies were
 much more advantageously applied to the improvement of the vast and rich
 countries which they had conquered, principally to the discovery and
 working of the richest and most productive mines of the precious metals
-as yet known.</p>
+as yet known.
 
-<p>Anson's expedition was purely military, and confined to southern
+Anson's expedition was purely military, and confined to southern
 latitudes. But the narrative drew the public attention towards the
 Pacific ocean, and gave a new impulse to the spirit of discovery. Almost
 immediately after the peace of 1763 voyages were undertaken for that
@@ -402,21 +327,21 @@ Perez, with his pilot, Martinez, sailed as far north as the northern
 extremity of Queen Charlotte's Island, having anchored in Nootka Sound,
 and, as Martinez asserts, perceived the entrance of Fuca's Straits. New
 and important discoveries were made by Quadra and Heceta in the year
-1775. The sequel is well known.</p>
+1775. The sequel is well known.
 
-<p>But on what foundation did the claim of Spain rest? If she had indeed an
+But on what foundation did the claim of Spain rest? If she had indeed an
 absolute right to the whole country bordering on the Pacific, derived
 either from natural or international law, or from usages generally
 recognized, it matters but little, as respects right, whether other
 nations had acquiesced in, or opposed her claim. If there was no
 foundation for that absolute and exclusive right of sovereignty, Spain
 could transfer nothing more to the United States than the legitimate
-claims derived from her discoveries.</p>
+claims derived from her discoveries.
 
-<p>The discovery gives an incipient claim not only to the identical spot
+The discovery gives an incipient claim not only to the identical spot
 thus discovered, but to a certain distance beyond it. It has been
 admitted that the claim extends generally, though not universally, as
-far inland as the sources of rivers emptying into the<span class='pagenum'><a name="Page_12" id="Page_12">[Pg 12]</a></span> sea where the
+far inland as the sources of rivers emptying into the sea where the
 discovery has been made. The distance to which the right or claim
 extends along the sea shore may not be precisely defined, and may vary
 according to circumstances. But it never can be unlimited; it has never
@@ -429,9 +354,9 @@ the shores of the Pacific, derived from her having established missions
 in California, would be similar in its nature and extent, and equally
 inadmissible. It cannot be sustained as a natural right, nor by the
 principles of international law, nor by any general usage or precedent.
-The claim of Spain rested on no such grounds.</p>
+The claim of Spain rested on no such grounds.
 
-<p>It was derived from the bull of Pope Alexander VI., which the Spanish
+It was derived from the bull of Pope Alexander VI., which the Spanish
 monarchs obtained in the year 1493, immediately after the discovery of
 America by Columbus. By virtue of that bull, combined with another
 previously granted to Portugal, and with modifications respecting the
@@ -450,38 +375,38 @@ America: whilst the acquiescence of Spain was tantamount to an
 abandonment of that claim where it was resisted. Ridiculous as a right
 derived from such a source may appear at this time, it was not then thus
 considered by Spain; and the western boundary of Brazil is to this day
-regulated by the division line prescribed by the Pope.</p>
+regulated by the division line prescribed by the Pope.
 
-<p><span class='pagenum'><a name="Page_13" id="Page_13">[Pg 13]</a></span></p><p>I am not aware of any other principle by which the claim ever was or
+I am not aware of any other principle by which the claim ever was or
 can be sustained, unless it be the idle ceremony of taking possession,
 as it is called. The celebrated Spaniard who first discovered the
 Pacific ocean, "Balboa, advancing up to the middle in the waves, with
 his buckler and sword, took possession of that ocean in the name of the
 King his master, and vowed to defend it, with his arms, against all his
-enemies."&mdash;(<i>Robertson.</i>)</p>
+enemies."--(_Robertson._)
 
-<p>I have dwelt longer on this subject than it may seem to deserve. The
+I have dwelt longer on this subject than it may seem to deserve. The
 assertion of the solidity of this ancient exclusive Spanish claim has
 had an apparent effect on public opinion fatal to the prospect of an
 amicable arrangement. I am also fully satisfied that the resort to
 vulnerable arguments, instead of strengthening, has a tendency to lessen
 the weight of the multiplied proofs, by which the superiority of the
-American over the British claim has been so fully established.</p>
+American over the British claim has been so fully established.
 
-<div class="footnotes"><h3>FOOTNOTE:</h3>
+FOOTNOTE:
 
-<div class="footnote"><p><a name="Footnote_1_1" id="Footnote_1_1"></a><a href="#FNanchor_1_1"><span class="label">[1]</span></a> I allude here only to the compromise proposed by Great
-Britain. Her actual claim, as explicitly stated by herself, is to the
-whole territory, limited to a right of joint occupancy, in common with
-other States, leaving the right of exclusive dominion in abeyance.</p></div></div>
+[1] I allude here only to the compromise proposed by Great Britain. Her
+actual claim, as explicitly stated by herself, is to the whole
+territory, limited to a right of joint occupancy, in common with other
+States, leaving the right of exclusive dominion in abeyance.
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_14" id="Page_14">[Pg 14]</a></span></p>
 
-<h2>NUMBER II.</h2>
 
-<p>It has, it is believed, been conclusively proved that the claim of the
+NUMBER II.
+
+
+It has, it is believed, been conclusively proved that the claim of the
 United States to absolute sovereignty over the whole Oregon territory,
 in virtue of the ancient exclusive Spanish claim, is wholly unfounded.
 The next question is, whether the other facts and arguments adduced by
@@ -498,23 +423,23 @@ whole of the territory in question, embrace the right to navigate the
 waters of those countries, the right to settle in and over any part of
 them, and the right freely to trade with the inhabitants and occupiers
 of the same. * * * * * * It is fully admitted that the United States
-possess the same rights; but beyond they possess none."</p>
+possess the same rights; but beyond they possess none."
 
-<p>In the nature of things, it seems almost impossible that a complete and
+In the nature of things, it seems almost impossible that a complete and
 absolute right to any portion of America can exist, unless it be by
-prescriptive and undisputed <i>actual</i> possession and settlements, or by
-virtue of a treaty.</p>
+prescriptive and undisputed _actual_ possession and settlements, or by
+virtue of a treaty.
 
-<p>At the time when America was discovered, the law of nations was
+At the time when America was discovered, the law of nations was
 altogether unsettled. More than a century elapsed before Grotius
 attempted to lay its foundation on Natural Law and the moral precepts of
 Christianity; and, when sustaining it by precedents, he was compelled to
-recur to Rome and Greece. It was in<span class='pagenum'><a name="Page_15" id="Page_15">[Pg 15]</a></span> reality a new case, to which no
-ancient precedents could apply,<a name="FNanchor_2_2" id="FNanchor_2_2"></a><a href="#Footnote_2_2" class="fnanchor">[2]</a> for which some new rules must be
+recur to Rome and Greece. It was in reality a new case, to which no
+ancient precedents could apply,[2] for which some new rules must be
 adopted. Gradually, some general principles were admitted, never
 universally, in their nature vague and often conflicting. For instance,
 discovery varies, from the simple ascertaining of the continuity of
-land, to a minute exploration of its various harbors, rivers, &amp;c.; and
+land, to a minute exploration of its various harbors, rivers, &c.; and
 the rights derived from it may vary accordingly, and may occasionally be
 claimed to the same district by different nations. There is no precise
 rule for regulating the time after which the neglect to occupy would
@@ -531,9 +456,9 @@ rivers discovered and occupied, is vague and undefined: though it would
 seem that it cannot exceed in breadth that of the territory on the coast
 originally discovered and occupied. A few examples will show the
 uncertainty resulting from those various claims, when they conflicted
-with each other.</p>
+with each other.
 
-<p>The old British charters extending from sea to sea have already been
+The old British charters extending from sea to sea have already been
 mentioned. They were founded, beyond the sources of the rivers emptying
 into the Atlantic, on no other principle than that of contiguity or
 continuity. The grant in 1621 of Nova Scotia, by James the First, is
@@ -541,10 +466,10 @@ bounded on the north by the river St. Lawrence, though Cartier had more
 than eighty-five years before discovered the mouth of that river and
 ascended it as high up as the present site of Montreal, and the French
 under Champlain had several years before 1621 been settled at Quebec.
-But there is another case more important, and still more in point.</p>
+But there is another case more important, and still more in point.
 
-<p>The few survivors of the disastrous expedition of Narvaez, who, coming
-from Florida, did in a most extraordinary way reach <span class='pagenum'><a name="Page_16" id="Page_16">[Pg 16]</a></span>Culiacan on the
+The few survivors of the disastrous expedition of Narvaez, who, coming
+from Florida, did in a most extraordinary way reach Culiacan on the
 Pacific, were the first Europeans who crossed the Mississippi. Some
 years later, Ferdinand de Soto, coming also from Florida, did in the
 year 1541 reach and cross the Mississippi, at some place between the
@@ -567,20 +492,20 @@ Pensacola and Nacogdoches, in order to check the progress of the French
 eastwardly and westwardly; but she did not attempt to disturb them in
 their settlements on the Mississippi and its tributaries. We have here
 the proof of a prior right of discovery being superseded, when too long
-neglected, by that of actual occupancy and settlement.</p>
+neglected, by that of actual occupancy and settlement.
 
-<p>The French, by virtue of having thus discovered the mouth of the
+The French, by virtue of having thus discovered the mouth of the
 Mississippi, of having ascended it more than fifteen hundred miles, of
 having explored the Ohio, the Wabash, and the Illinois, from their
 respective mouths to their most remote sources, and of having formed
 several settlements as above mentioned, laid claim to the whole country
 drained by the main river and its tributaries. They accordingly built
-forts at Le B&oelig;uf, high up the Alleghany river, and on the site where
+forts at Le Boeuf, high up the Alleghany river, and on the site where
 Pittsburgh now stands. On the ground of discovery or settlement, Great
 Britain had not the slightest claim. General, then Colonel Washington,
 was the first who, at the age of twenty-two, and in the year 1754,
 planted the British banner on the Western waters. The British claim was
-founded principally<span class='pagenum'><a name="Page_17" id="Page_17">[Pg 17]</a></span> on the ground of contiguity, enforced by other
+founded principally on the ground of contiguity, enforced by other
 considerations. The strongest of these was, that it could not consist
 with natural law, that the British colonies, with a population of near
 two millions, should be confined to the narrow belt of land between the
@@ -592,16 +517,16 @@ decided by the sword. By the treaty of peace of 1763, the Mississippi,
 with the exception of New Orleans and its immediate vicinity, was made
 the boundary. The French not only lost all that part of the valley which
 lay east of that river, but they were compelled to cede Canada to Great
-Britain.</p>
+Britain.
 
-<p>It may, however, happen that all the various claims from which a title
+It may, however, happen that all the various claims from which a title
 may be derived, instead of pertaining to several Powers, and giving rise
 to conflicting pretensions, are united and rightfully belong to one
 nation alone. This union, if entire, may justly be considered as giving
 a complete and exclusive title to the sovereignty of that part of the
-country embraced by such united claims.</p>
+country embraced by such united claims.
 
-<p>The position assumed by the British Government, that those various
+The position assumed by the British Government, that those various
 claims exclude each other, and that the assertion of one forbids an
 appeal to the others, is obviously untenable. All that can be said in
 that respect is, that if any one claim is alone sufficient to establish
@@ -612,16 +537,16 @@ considered the title derived from the ancient exclusive Spanish claim as
 indisputable; but that, if this was denied, all the other just claims of
 the United States taken together constituted a complete title, or at
 least far superior to any that could be adduced on the part of Great
-Britain.</p>
+Britain.
 
-<p>It is not intended to enter into the merits of the question, which has
+It is not intended to enter into the merits of the question, which has
 been completely discussed, since the object of this paper is only to
 show that there remain on both sides certain debatable questions; and
-that therefore both Governments may, if so disposed,<span class='pagenum'><a name="Page_18" id="Page_18">[Pg 18]</a></span> recede from some
+that therefore both Governments may, if so disposed, recede from some
 of their pretensions, without any abandonment of positive rights, and
-without impairing national honor and dignity.</p>
+without impairing national honor and dignity.
 
-<p>Although Great Britain seems, in this discussion, to have relied almost
+Although Great Britain seems, in this discussion, to have relied almost
 exclusively on the right derived from actual occupancy and settlement,
 she cannot reject absolutely those derived from other sources. She must
 admit that, both in theory and practice, the claims derived from prior
@@ -653,7 +578,7 @@ in that quarter was by Mr. Astor's company, on the 24th of March, 1811,
 though Mr. Thompson, the astronomer of the British Northwest Company,
 who arrived at Astoria on the 15th of July, may have wintered on or near
 some northern source of the river in 52 degrees north latitude; that
-amongst the factories<span class='pagenum'><a name="Page_19" id="Page_19">[Pg 19]</a></span> established by that American company one was
+amongst the factories established by that American company one was
 situated at the confluence of the Okanagan with the Columbia, in about
 49 degrees of latitude; that the 42d degree is the boundary, west of the
 Stony Mountains, established by treaty between Spain, now Mexico, and
@@ -662,9 +587,9 @@ the Lake of the Woods to the Stony Mountains, established by treaty
 between Great Britain and the United States; and that therefore the
 right of the United States, which may be derived from the principle of
 contiguity or continuity, embraces the territory west of the Stony
-Mountains contained between the 42d and 49th degrees of latitude.</p>
+Mountains contained between the 42d and 49th degrees of latitude.
 
-<p>Omitting other considerations which apply principally to the territory
+Omitting other considerations which apply principally to the territory
 north of Fuca Straits, where the claims of both parties are almost
 exclusively derived from their respective discoveries, including those
 of Spain, it may be rationally inferred from the preceding enumeration
@@ -678,17 +603,17 @@ an influence on that which Great Britain will adopt, it does not belong
 to me to discuss what that Government may or will do. This paper is
 intended for the American, and not for the English public; and my
 attention has been principally directed to those points which may be
-considered by the United States as doubtful and debatable.</p>
+considered by the United States as doubtful and debatable.
 
-<p>It was expressly stipulated that nothing contained in the conventions of
-1818 and 1827 should be construed to impair, <i>or in any manner affect</i>,
+It was expressly stipulated that nothing contained in the conventions of
+1818 and 1827 should be construed to impair, _or in any manner affect_,
 the claims which either of the contracting parties may have to any part
 of the country westward of the Stony or Rocky Mountains. After the most
 cool and impartial investigation of which I am capable, I have not been
 able to perceive any claim on the part of Great Britain, or debatable
 question, respecting the territory south of Fuca's Straits, but the
 species of occupancy by the British Fur companies between the year 1813
-and October 20th, 1818; and this must be considered in connection<span class='pagenum'><a name="Page_20" id="Page_20">[Pg 20]</a></span> with
+and October 20th, 1818; and this must be considered in connection with
 the restoration of "all territory, places, and possessions whatsoever,
 taken by either party from the other during the war," provided for by
 the treaty of Ghent. To this branch of the subject belongs also the
@@ -703,35 +628,35 @@ sovereignty than similar establishments made in a civilized country."
 However true this may be as an abstract proposition, it must be admitted
 that, practically, the modest British factory at Calcutta has gradually
 grown up into absolute and undisputed sovereignty over a population of
-eighty millions of people.</p>
+eighty millions of people.
 
-<p>The questions which, as it appears to me, may be allowed by the United
+The questions which, as it appears to me, may be allowed by the United
 States to be debatable, and therefore to make it questionable whether
-they have a complete right to the whole Oregon territory, are:</p>
+they have a complete right to the whole Oregon territory, are:
 
-<p>1st. The Nootka convention, which applies to the whole, and which,
+1st. The Nootka convention, which applies to the whole, and which,
 though not of primary importance, is nevertheless a fact, and the
-inferences drawn from it a matter of argument.</p>
+inferences drawn from it a matter of argument.
 
-<p>2dly. The discovery of the Straits of Fuca.</p>
+2dly. The discovery of the Straits of Fuca.
 
-<p>3dly. North of those straits; along the sea shores, the discoveries of
+3dly. North of those straits; along the sea shores, the discoveries of
 the British contrasted with those of the American and Spanish
 navigators; in the interior, the question whether the discovery of the
 mouth and the navigation of one of its principal branches, from its
 source to the mouth of the river, implies without exception a complete
 right to the whole country drained by all the tributaries of such river;
 and also the British claim to the whole territory drained by Frazer's
-river&mdash;its sources having been discovered in 1792 by Sir Alexander
+river--its sources having been discovered in 1792 by Sir Alexander
 Mackenzie, factories having been established upon it by the British as
 early as the year 1806, and the whole river thence to its mouth having
-been for a number of years exclusively navigated by British subjects.</p>
+been for a number of years exclusively navigated by British subjects.
 
-<p>It appears to me sufficient generally to suggest the controverted<span class='pagenum'><a name="Page_21" id="Page_21">[Pg 21]</a></span>
+It appears to me sufficient generally to suggest the controverted
 points. That which relates to Fuca's Straits is the most important, and
-deserves particular consideration.</p>
+deserves particular consideration.
 
-<p>If Fuca's voyage in 1592 could be proved to be an authentic document,
+If Fuca's voyage in 1592 could be proved to be an authentic document,
 this would settle at once the question in favor of the United States;
 but the voyage was denied in the introduction to the voyage of the Sutil
 and Mexicano. This was an official document, published under the
@@ -747,29 +672,29 @@ which was, as he says, Fuca himself) from Manilla to the coast of
 California, where she was captured in 1587 by Cavendish, and of Vizcaino
 in 1602-1603, and even of Maldonado's fictitious voyage in 1588, yet no
 trace has been found in Spain or Mexico of Fuca's, or any other similar
-voyage, in 1692, or thereabout.</p>
+voyage, in 1692, or thereabout.
 
-<p>On reading with attention the brief account published by Purchas, I will
+On reading with attention the brief account published by Purchas, I will
 say that the voyage itself has much internal evidence of its truth, but
 that the inference or conclusion throws much discredit on the whole. The
 only known account of the voyage is that given verbally at Venice in
 1596, by Fuca, a Greek pilot, to Mr. Lock, a respectable English
-merchant, who transmitted it to Purchas.</p>
+merchant, who transmitted it to Purchas.
 
-<p>Fuca says that he had been sent by the Viceroy of Mexico to discover the
+Fuca says that he had been sent by the Viceroy of Mexico to discover the
 straits of Anian and the passage thereof into the sea, which they called
-the North Sea, which is <i>our Northwest Sea</i>; that between 47 and 48
+the North Sea, which is _our Northwest Sea_; that between 47 and 48
 degrees of latitude he entered into a broad inlet, through which he
 sailed more than twenty days; and, being then come into the North Sea
 already, and not being sufficiently armed, he returned again to
 Acapulco. He offered then to Mr. Lock to go into England and serve her
 Majesty in a voyage for the discovery perfectly of the Northwest passage
-into the South<span class='pagenum'><a name="Page_22" id="Page_22">[Pg 22]</a></span> Sea. If it be granted that the inlet through which he
+into the South Sea. If it be granted that the inlet through which he
 had sailed was really the same as the straits which now bear his name,
-that sea into which he emerged, and which he asserts to be <i>our
-Northwest Sea</i>, must have been that which is now called Queen
+that sea into which he emerged, and which he asserts to be _our
+Northwest Sea_, must have been that which is now called Queen
 Charlotte's Sound, north of Quadra and Vancouver's Island, in about 51
-degrees of latitude. <i>Our Northwest Sea</i> was that which washes the
+degrees of latitude. _Our Northwest Sea_ was that which washes the
 shores of Newfoundland and Labrador, then universally known as far north
 as the vicinity of the 60th degree of latitude. Hudson's Straits had not
 yet been discovered, and the discovery of Davis's Straits might not be
@@ -789,9 +714,9 @@ the Atlantic. Prior to the year 1787 they were engaged in seeking for
 it, and the Spaniards had for that purpose explored in vain the sea
 coast lying south of the 48th degree; for it is well known that Fuca's
 entrance lies between the 48th and 49th, and not between the 47th and
-48th degrees of latitude, as he had announced.</p>
+48th degrees of latitude, as he had announced.
 
-<p>The modern discovery of that inlet is due to Captain Barclay, an
+The modern discovery of that inlet is due to Captain Barclay, an
 Englishman, commanding the Imperial Eagle, a vessel owned by British
 merchants, but which was equipped at, and took its departure from
 Ostend, and which sailed under the flag of the Austrian East India
@@ -799,32 +724,32 @@ Company. The British Government, which has objected to the American
 claim derived from Captain Gray's discovery of the mouth of the river
 Columbia, on the ground that he was a private individual, and that his
 vessel was not a public ship, cannot certainly claim anything in virtue
-of a discovery by a<span class='pagenum'><a name="Page_23" id="Page_23">[Pg 23]</a></span> private Englishman, sailing under Austrian colors.
+of a discovery by a private Englishman, sailing under Austrian colors.
 In that case, and rejecting Fuca's voyage, neither the United States nor
-England can lay any claim on account of the discovery of the straits.</p>
+England can lay any claim on account of the discovery of the straits.
 
-<p>Subsequently, the Englishman, Meares, sailing under the Portuguese flag,
+Subsequently, the Englishman, Meares, sailing under the Portuguese flag,
 penetrated, in 1768, about ten miles into the inlet, and the American,
 Gray, in 1789, about fifty miles. The pretended voyage of the sloop
 Washington throughout the straits, under the command of either Gray or
 Kendrick, has no other foundation than an assertion of Meares, on which
-no reliance can be placed.</p>
+no reliance can be placed.
 
-<p>In the year 1790 (1791 according to Vancouver) the Spaniards, Elisa and
+In the year 1790 (1791 according to Vancouver) the Spaniards, Elisa and
 Quimper, explored the straits more than one hundred miles, discovering
 the Port Discovery, the entrance of Admiralty Inlet, the Deception
 Passage, and the Canal de Haro. In 1792 Vancouver explored and surveyed
 the straits throughout, together with their various bays and harbors.
 Even there he had been preceded in part by the Sutil and Mexicano; and
 he expresses his regret that they had advanced before him as far as the
-Canal del Rosario.</p>
+Canal del Rosario.
 
-<p>Under all the circumstances of the case, it cannot be doubted that the
+Under all the circumstances of the case, it cannot be doubted that the
 United States must admit that the discovery of the straits, and the
 various inferences which may be drawn from it, are doubtful and
-debatable questions.</p>
+debatable questions.
 
-<p>That which relates to a presumed agreement of Commissioners appointed
+That which relates to a presumed agreement of Commissioners appointed
 under the treaty of Utrecht, by which the northern boundary of Canada
 was, from a certain point north of Lake Superior, declared to extend
 westwardly along the 49th parallel of latitude, does not appear to me
@@ -837,7 +762,7 @@ and expressly designated, as being in conformity with the agreement of
 the Commissioners under the treaty of Utrecht. The evidence against the
 fact, though in some respects strong, is purely negative. The line,
 according to the map, extended from a certain point near the source of
-the river Saguenay, in a westerly direction, to<span class='pagenum'><a name="Page_24" id="Page_24">[Pg 24]</a></span> another designated
+the river Saguenay, in a westerly direction, to another designated
 point on another river emptying either into the St Lawrence or James's
 Bay; and there were, in that way, four or five lines following each
 other, all tending westwardly, but with different inclinations
@@ -848,25 +773,27 @@ St. Lawrence and others into James's Bay or Hudson's Bay, until, from a
 certain point lying north of Lake Superior, the line was declared to
 extend along the 49th degree of latitude, as above stated. It was with
 that map before me that the following paragraph was inserted in the
-American statement of December, 1826:</p>
+American statement of December, 1826:
 
-<blockquote><p>"The limits between the possessions of Great Britain in North
-America, and those of France in the same quarter, namely, Canada
-and Louisiana, were determined by Commissioners appointed in
-pursuance of the treaty of Utrecht. From the coast of Labrador to a
-certain point North of Lake Superior, those limits were fixed
-according to certain metes and bounds; and from that point the line
-of demarcation was agreed to extend indefinitely due west, along
-the forty-ninth parallel of north latitude. It was in conformity
-with that arrangement that the United States did claim that
-parallel as the northern boundary of Louisiana. It has been
-accordingly thus settled, as far as the Stony Mountains, by the
-convention of 1818 between the United States and Great Britain; and
-no adequate reason can be given why the same boundary should not be
-continued as far as the claims of the United States do extend, that
-is to say, as far as the Pacific ocean."</p></blockquote>
 
-<p>It appears very extraordinary that any geographer or map-maker should
+     "The limits between the possessions of Great Britain in North
+     America, and those of France in the same quarter, namely, Canada
+     and Louisiana, were determined by Commissioners appointed in
+     pursuance of the treaty of Utrecht. From the coast of Labrador to a
+     certain point North of Lake Superior, those limits were fixed
+     according to certain metes and bounds; and from that point the line
+     of demarcation was agreed to extend indefinitely due west, along
+     the forty-ninth parallel of north latitude. It was in conformity
+     with that arrangement that the United States did claim that
+     parallel as the northern boundary of Louisiana. It has been
+     accordingly thus settled, as far as the Stony Mountains, by the
+     convention of 1818 between the United States and Great Britain; and
+     no adequate reason can be given why the same boundary should not be
+     continued as far as the claims of the United States do extend, that
+     is to say, as far as the Pacific ocean."
+
+
+It appears very extraordinary that any geographer or map-maker should
 have invented a dividing line, with such specific details, without
 having sufficient grounds for believing that it had been thus determined
 by the Commissioners under the treaty of Utrecht. It is also believed
@@ -877,14 +804,14 @@ consequence of the treaty of Utrecht, had been repeatedly made in the
 course of preceding negotiations, as well as in the conferences of that
 of the year 1826; and there is no apparent motive, if the assertion was
 known by the British negotiators not to be founded in fact, why they
-should not have<span class='pagenum'><a name="Page_25" id="Page_25">[Pg 25]</a></span> at once denied it. It may be, however, that the
+should not have at once denied it. It may be, however, that the
 question having ceased to be of any interest to Great Britain since the
 acquisition of Canada, they had not investigated the subject. It is of
 some importance, because, if authenticated, the discussion would be
 converted from questions respecting undefined claims, into one
-concerning the construction of a positive treaty or convention.</p>
+concerning the construction of a positive treaty or convention.
 
-<p>It is sufficiently clear that, under all the circumstances of the case,
+It is sufficiently clear that, under all the circumstances of the case,
 an amicable division of the territory, if at all practicable, must be
 founded in a great degree on expediency. This of course must be left to
 the wisdom of the two Governments. The only natural, equitable, and
@@ -894,27 +821,27 @@ situated south of the mouth of Frazer's river, should leave to the
 United States all the shores and harbors lying south, and to Great
 Britain all those north of that line, including the whole of Quadra and
 Vancouver's Island. It would be through Fuca's Straits a nearly easterly
-line, along the parallel of about 48&frac12; degrees, leaving to England the
+line, along the parallel of about 48½ degrees, leaving to England the
 most valuable and permanent portion of the fur trade, dividing the
 sea-coast as nearly as possible into two equal parts, and the ports in
 the most equitable manner. To leave Admiralty Inlet and its Sounds to
 Great Britain, would give her a possession in the heart of the American
 portion of the territory. Whether from the point where the line would
 strike the main, it should be continued along the same parallel, or run
-along the 49th, is a matter of secondary importance.</p>
+along the 49th, is a matter of secondary importance.
 
-<p>If such division should take place, the right of the inhabitants of the
+If such division should take place, the right of the inhabitants of the
 country situated on the upper waters of the Columbia to the navigation
 of that river to its mouth, is founded on natural law; and the principle
 has almost been recognized as the public law of Europe. Limited to
 commercial purposes, it might be admitted, but on the express condition
 that the citizens of the United States should in the same manner, and to
-the same extent, have the right to navigate the river St. Lawrence.</p>
+the same extent, have the right to navigate the river St. Lawrence.
 
-<p>But I must say that, whatever may be the ultimate destinies of the
+But I must say that, whatever may be the ultimate destinies of the
 Oregon territory, I would feel great regret in seeing it in any way
 divided. An amicable division appears to me without comparison
-preferable to a war for that object between the two countries. In<span class='pagenum'><a name="Page_26" id="Page_26">[Pg 26]</a></span> every
+preferable to a war for that object between the two countries. In every
 other view of the subject it is highly exceptionable. Without adverting
 for the present to considerations of a higher nature, it may be
 sufficient here to observe, that the conversion of the northern part of
@@ -925,20 +852,20 @@ of another. The ports within the portion of territory allotted to the
 United States would of course remain open to British vessels; whilst
 American vessels would be excluded from the ports of the British colony,
 unless occasionally admitted by special acts depending on the will of
-Great Britain.</p>
+Great Britain.
 
-<div class="footnotes"><h3>FOOTNOTE:</h3>
+FOOTNOTE:
 
-<div class="footnote"><p><a name="Footnote_2_2" id="Footnote_2_2"></a><a href="#FNanchor_2_2"><span class="label">[2]</span></a> Grotius, however, sustains the right of occupation by a
-maxim of the Civil Roman Code.</p></div></div>
+[2] Grotius, however, sustains the right of occupation by a maxim of the
+Civil Roman Code.
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_27" id="Page_27">[Pg 27]</a></span></p>
 
-<h2>NUMBER III.</h2>
 
-<p>Beyond the naked assertion of an absolute right to the whole territory,
+NUMBER III.
+
+
+Beyond the naked assertion of an absolute right to the whole territory,
 so little in the shape of argument has been adduced, and so much warmth
 has been exhibited in the discussion of the subject, that it cannot be
 doubted that the question has now become, on both sides, one of feeling
@@ -954,23 +881,23 @@ that I share in that feeling to its full extent. For the Americans,
 Oregon is or will be home: for England, it is but an outpost, which may
 afford means of annoyance, rather than be a source of real power. In
 America all have the same ultimate object in view; we differ only with
-respect to the means by which it may be attained.</p>
+respect to the means by which it may be attained.
 
-<p>Two circumstances have had a tendency to nourish and excite these
+Two circumstances have had a tendency to nourish and excite these
 feelings. The British fur companies, from their position, from their
 monopolizing character, from their natural influence upon the Indians,
 and from that, much greater than might have been expected, which they
 have constantly had upon the British Government in its negotiations with
 the United States, have for sixty years been a perpetual source of
 annoyance and collisions. The vested interests of the Hudson Bay Company
-are at this <span class='pagenum'><a name="Page_28" id="Page_28">[Pg 28]</a></span>moment the greatest obstacle to an amicable arrangement. It
+are at this moment the greatest obstacle to an amicable arrangement. It
 is at the same time due to justice to say that, as far as is known, that
 company has acted in Oregon in conformity with the terms of the
 convention, and that its officers have uniformly treated the Americans,
 whether visitors or emigrants, not only courteously, but with great
-kindness.</p>
+kindness.
 
-<p>If the British colonies on the continent of America were an independent
+If the British colonies on the continent of America were an independent
 country, or were they placed in their commercial relations, at least
 with the United States, on the same footing as the British possessions
 in Europe, these relations would be regulated by the reciprocal
@@ -978,9 +905,9 @@ interests and wants of the parties immediately concerned. Great Britain
 has an undoubted right to persist in her colonial policy; but the result
 has been extremely vexatious, and to the United States injurious. All
 this is true. But feelings do not confer a right, and the indulgence of
-excited feelings is neither virtue nor wisdom.</p>
+excited feelings is neither virtue nor wisdom.
 
-<p>The Western States have no greater apparent immediate interest in the
+The Western States have no greater apparent immediate interest in the
 acquisition of Oregon than the States bordering on the Atlantic. These
 stand in greater need of an outlet for their surplus emigrating
 population, and to them exclusively, will for the present, the benefit
@@ -1000,9 +927,9 @@ levied in proportion to the respective population of the several States,
 it will be much more oppressive on those which have not yet accumulated
 a large amount of circulating or personal capital. The greater degree of
 excitement which prevails in the West is due to other and more powerful
-causes than a regard for self-interest.</p>
+causes than a regard for self-interest.
 
-<p><span class='pagenum'><a name="Page_29" id="Page_29">[Pg 29]</a></span></p><p>Bordering through the whole of their northern frontier on the British
+Bordering through the whole of their northern frontier on the British
 possessions, the Western people have always been personally exposed to
 the annoyances and collisions already alluded to; and it may be that the
 hope of getting rid of these by the conquest of Canada has some
@@ -1023,9 +950,9 @@ debt they had contracted, and obliged to try to compound with their
 creditors. Nevertheless, undiminished activity and locomotion are still
 the ruling principles: the Western people leap over time and distance;
 ahead they must go; it is their mission. May God speed them, and may
-they thus quietly take possession of the entire contested territory!</p>
+they thus quietly take possession of the entire contested territory!
 
-<p>All this was as well known to the British Government as to ourselves. A
+All this was as well known to the British Government as to ourselves. A
 public and official declaration by the President of the United States
 was unnecessary and at least premature. Mr. Rush's correspondence of
 1824 bears witness of its unfortunate effect on the negotiations of that
@@ -1036,15 +963,15 @@ Time is absolutely necessary in order that this should subside. Any
 precipitate step now taken by either Government would be attended with
 the most fatal consequences. That which, if done some years ago, might
 have been harmless, would now be highly dangerous, and should at least
-be postponed for the present.</p>
+be postponed for the present.
 
-<p><span class='pagenum'><a name="Page_30" id="Page_30">[Pg 30]</a></span></p><p>The first incipient step recommended by the Executive is, to give the
+The first incipient step recommended by the Executive is, to give the
 notice that the convention of 1827 shall expire at the end of one year.
 This measure at this time, and connected with the avowed intention of
 assuming exclusive sovereignty over the whole territory, becomes a
-question of peace or war.</p>
+question of peace or war.
 
-<p>The conventions of 1818 and 1827, whilst reserving the rights of both
+The conventions of 1818 and 1827, whilst reserving the rights of both
 parties, allowed the freedom of trade and navigation throughout the
 whole territory to remain common to both; and the citizens or subjects
 of both powers were permitted to occupy any part of it. The
@@ -1065,23 +992,23 @@ the Americans have begun to migrate to that remote country: a greater
 number will certainly follow; and they have under the convention a
 perfect right to occupy and make settlements in any part of the
 territory they may think proper, with the sole exception of the spots
-actually occupied by the British company.</p>
+actually occupied by the British company.
 
-<p>What is then the object in view, in giving the notice at this time? This
+What is then the object in view, in giving the notice at this time? This
 has been declared without reserve by the President: "At the end of the
 year's notice, should Congress think it proper to make provision for
 giving that notice, we shall have reached a period when the national
 rights in Oregon must either be abandoned or firmly maintained. That
 they cannot be abandoned without a sacrifice of both national honor and
 interests, is too clear to admit of doubt." And it must be recollected
-that this candid avowal<span class='pagenum'><a name="Page_31" id="Page_31">[Pg 31]</a></span> has been accompanied by the declaration that
+that this candid avowal has been accompanied by the declaration that
 "our title to the whole Oregon territory had been asserted and, as was
 believed, maintained by irrefragable facts and arguments." Nothing can
 be more plain and explicit. The exclusive right of the United States to
 absolute sovereignty over the whole territory must be asserted and
-maintained.</p>
+maintained.
 
-<p>It may not be necessary for that purpose to drive away the British fur
+It may not be necessary for that purpose to drive away the British fur
 company, nor to prevent the migration into Oregon of British emigrants
 coming from the British dominions. The company may, if deemed expedient,
 be permitted to trade as heretofore with the Indians. British emigrants
@@ -1092,16 +1019,16 @@ parts of the Union. In this case they will enjoy no political rights;
 they will not be permitted to own American vessels and to sail under the
 American flag; the permission to own real property seems, so long as
 Oregon remains a territory, to depend on the will of Congress. Thus far
-collision may be avoided.</p>
+collision may be avoided.
 
-<p>But no foreign jurisdiction can be permitted, from the moment when the
+But no foreign jurisdiction can be permitted, from the moment when the
 sovereignty of the United States over the whole territory shall be
 asserted and maintained. To this, all those who reside in the territory
 must submit. After having taken the decisive step of giving the notice,
 the United States cannot, as the President justly states, abandon the
-right of sovereignty without a sacrifice of national honor.</p>
+right of sovereignty without a sacrifice of national honor.
 
-<p>It had been expressly agreed by the convention that nothing contained in
+It had been expressly agreed by the convention that nothing contained in
 it should affect the claims of either party to the territory. The
 all-important question of sovereignty remained therefore in abeyance.
 Negotiations for a division of the territory have failed: the question
@@ -1111,7 +1038,7 @@ convention, and if, from the time when it shall have expired, they
 peremptorily assume the right of sovereignty over the whole, it cannot
 be doubted that Great Britain will at once resist. She will adhere to
 the principle she had asserted prior to the Nootka convention, and has
-ever since <span class='pagenum'><a name="Page_32" id="Page_32">[Pg 32]</a></span>maintained, that actual occupancy can alone give a right to
+ever since maintained, that actual occupancy can alone give a right to
 the country. She will not permit the jurisdiction of the United States
 to be extended over her subjects: she will oppose the removal, arrest,
 or exercise of any other legal process, against her justices of the
@@ -1119,9 +1046,9 @@ peace, against any other officers who directly or indirectly act under
 her authority, against any of her subjects; and she will continue to
 exercise her jurisdiction over all of them throughout the whole
 territory. Whatever either Power asserts must be maintained: military
-occupation and war must necessarily ensue.</p>
+occupation and war must necessarily ensue.
 
-<p>A portion of the people, both in the West and elsewhere, see clearly
+A portion of the people, both in the West and elsewhere, see clearly
 that such must be the consequence of giving the notice. Such men openly
 avow their opinions, prefer war to a longer continuation of the present
 state of things, are ready to meet all the dangers and calamities of the
@@ -1129,33 +1056,33 @@ impending conflict, and to adopt at once all the measures which may
 ensure success. With them, the discussion brings at once the question to
 its true issue: Is war necessary for the object they have in view? Or
 may it not be attained by peaceable means? It is a question of war or
-peace, and it is fairly laid before the nation.</p>
+peace, and it is fairly laid before the nation.
 
-<p>But many respectable men appear to entertain hopes that peace may still
+But many respectable men appear to entertain hopes that peace may still
 be preserved after the United States shall have assumed, or attempted to
 assume, exclusive sovereignty. The reverse appears to me so clear, so
 obvious, so inevitable, that I really cannot understand on what grounds
-these hopes are founded.</p>
+these hopes are founded.
 
-<p>Is it thought that the President will not, after the assent of Congress
+Is it thought that the President will not, after the assent of Congress
 has been obtained (and whether immediately or at the end of this
 session, is quite immaterial), give the notice which he has asked
 Congress to authorize? Or is it supposed that a change in the form
 which, in order to avoid responsibility, would give him a discretionary
 power, could lead to a different result, or be anything else but a
-transfer by Congress to the Executive of the power to declare war?</p>
+transfer by Congress to the Executive of the power to declare war?
 
-<p>Can it be presumed that when, after the expiration of the term of
+Can it be presumed that when, after the expiration of the term of
 notice, the convention shall have been abrogated, the President will not
 assert and maintain the sovereignty claimed by the United States? I have
 not the honor of a personal acquaintance with him; I respect in him the
-First Magistrate of the Nation; and he<span class='pagenum'><a name="Page_33" id="Page_33">[Pg 33]</a></span> is universally represented as of
+First Magistrate of the Nation; and he is universally represented as of
 irreproachable character, sincere, and patriotic. Every citizen has a
 right to differ with him in opinion: no one has that of supposing that
 he says one thing and means another. I feel an intimate conviction of
-his entire sincerity.</p>
+his entire sincerity.
 
-<p>Is it possible that any one, who does not labor under a singular
+Is it possible that any one, who does not labor under a singular
 illusion, can believe that England will yield to threats and defiance
 that which she has refused to concede to our arguments? Reverse the
 case: Suppose for a moment that Great Britain was the aggressor, and had
@@ -1165,9 +1092,9 @@ country, and oppose the exercise of any whatever by the United States:
 is there any American, even amongst those who set the least value on the
 Oregon territory, and are most sincerely desirous of preserving peace,
 who would not at once declare that such pretension on the part of Great
-Britain was outrageous and must be resisted?</p>
+Britain was outrageous and must be resisted?
 
-<p>It is not certainly the interest of Great Britain to wage war against
+It is not certainly the interest of Great Britain to wage war against
 the United States, and it may be fairly presumed that the British
 Government has no such wish. But England is, as well as the United
 States, a great, powerful, sensitive, and proud nation. Every effusion
@@ -1183,36 +1110,36 @@ portion of that territory. Her present claim, not in respect to any
 part, but to the whole, is limited to a right of joint occupancy in
 common with other States, leaving the right of exclusive dominion in
 abeyance. * * * * The pretensions of Great Britain tend to the mere
-maintenance of her own rights, <i>in resistance to the exclusive
-character</i> of the pretensions of the United States. * * * * These rights
-embrace the right to navigate the waters of those countries,<span class='pagenum'><a name="Page_34" id="Page_34">[Pg 34]</a></span> <i>the right
-to settle in and over any part of them</i>, and the right freely to trade
-with the inhabitants and occupiers of the same. It is fully <i>admitted</i>
-that the <i>United States possess the same rights</i>. But beyond these
+maintenance of her own rights, _in resistance to the exclusive
+character_ of the pretensions of the United States. * * * * These rights
+embrace the right to navigate the waters of those countries, _the right
+to settle in and over any part of them_, and the right freely to trade
+with the inhabitants and occupiers of the same. It is fully _admitted_
+that the _United States possess the same rights_. But beyond these
 rights, they possess none. To the interests and establishments which
 British industry and enterprise have created Great Britain owes
-protection. <i>That protection will be given</i>, both as regards settlement
+protection. _That protection will be given_, both as regards settlement
 and freedom of trade and navigation, with every attention not to
-infringe the co-ordinate rights of the United States."</p>
+infringe the co-ordinate rights of the United States."
 
-<p>Thus, the United States declare that they give notice of the abrogation
+Thus, the United States declare that they give notice of the abrogation
 of the convention, with the avowed determination of asserting their
-assumed right of absolute and <i>exclusive sovereignty</i> over the whole
+assumed right of absolute and _exclusive sovereignty_ over the whole
 territory of Oregon. And Great Britain has explicitly declared that her
-pretensions were, <i>in resistance</i> to the <i>exclusive</i> character of those
+pretensions were, _in resistance_ to the _exclusive_ character of those
 of the United States; and that protection will be given both as regards
 settlement and freedom of trade and navigation to the interests and
-establishments which British industry and enterprise have created.</p>
+establishments which British industry and enterprise have created.
 
-<p>How war can be avoided, if both Powers persist in their conflicting
+How war can be avoided, if both Powers persist in their conflicting
 determinations, is incomprehensible. Under such circumstances
 negotiation is morally impossible during the year following the notice.
 To give that notice, with the avowed determination to assume exclusive
 sovereignty at the end of the year, is a decisive, most probably an
 irretrievable, step. "After that period the United States cannot abandon
-their right of sovereignty without a sacrifice of national honor."</p>
+their right of sovereignty without a sacrifice of national honor."
 
-<p>The question of sovereignty has never been decided. Simply to give
+The question of sovereignty has never been decided. Simply to give
 notice of the abrogation of the convention, would leave the question in
 the same situation: it would remain in abeyance. But when the President
 has recommended that the notice should be given with the avowed object
@@ -1222,25 +1149,25 @@ object for which it is given. If the notice should be given, the only
 way to avoid that implication and its fatal consequences, is to insert
 in it, an explicit declaration, that the sovereignty shall not be
 assumed. But then why give the notice at all? A postponement is far
-preferable, unless<span class='pagenum'><a name="Page_35" id="Page_35">[Pg 35]</a></span> some other advantage shall be obtained by the
+preferable, unless some other advantage shall be obtained by the
 abrogation of the convention. This must be examined, and it is necessary
 to inquire whether any and what measures may be adopted, without any
 violation of the convention, that will preserve the rights and
-strengthen the position of the United States.</p>
+strengthen the position of the United States.
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_36" id="Page_36">[Pg 36]</a></span></p>
 
-<h2>NUMBER IV.</h2>
 
-<p>The acts which the government of the United States may do, in conformity
+NUMBER IV.
+
+
+The acts which the government of the United States may do, in conformity
 with the convention, embrace two objects: the measures applicable to the
 territory within their acknowledged limits which may facilitate and
 promote migration; and those which are necessary for the protection of
-their citizens residing in the Oregon territory.</p>
+their citizens residing in the Oregon territory.
 
-<p>It is a remarkable fact that, although the convention has now been in
+It is a remarkable fact that, although the convention has now been in
 force twenty-seven years, Congress has actually done nothing with
 respect to either of those objects. Enterprising individuals have,
 without any aid or encouragement by Government, opened a wagon-road
@@ -1258,12 +1185,12 @@ the convention than the reservation of their rights, and the express
 provision that these should in no way be affected by the continuance of
 the British factories in the territory. And, now that the tide of
 migration has turned in their favor, they are suddenly invited to assume
-a hostile position, to<span class='pagenum'><a name="Page_37" id="Page_37">[Pg 37]</a></span> endure the calamities and to run the chances and
+a hostile position, to endure the calamities and to run the chances and
 consequences of war, in order to gain an object which natural and
 irresistible causes, if permitted to operate, cannot fail ultimately to
-attain.</p>
+attain.
 
-<p>The measures applicable to the territory within the acknowledged limits
+The measures applicable to the territory within the acknowledged limits
 of the U. States have generally been recommended by the President. A
 very moderate appropriation will be sufficient to improve the most
 difficult portions of the road: and block-houses or other temporary
@@ -1281,33 +1208,33 @@ whole length of the road. The most important place, that which is most
 wanted, either as a place of rest for the emigrants, or for military
 purposes, is one in the immediate vicinity of the Stony Mountains.
 Reports speak favorably of the fertility of the soil in some of the
-valleys of the upper waters, within our limits&mdash;of Bear's river, of the
+valleys of the upper waters, within our limits--of Bear's river, of the
 Rio Colorado, and of some of the northern branches of the river Platte.
 There, also, the seat of justice might be placed of the new territory,
-whose courts should have superior jurisdiction over Oregon.</p>
+whose courts should have superior jurisdiction over Oregon.
 
-<p>The measures which the United States have a right to carry into effect
-within the territory of Oregon must now be considered.</p>
+The measures which the United States have a right to carry into effect
+within the territory of Oregon must now be considered.
 
-<p>The only positive condition of the convention is, that the territory in
+The only positive condition of the convention is, that the territory in
 question shall, together with its harbors, bays, and creeks, and the
 navigation of all rivers within the same, be free and open to vessels,
-citizens, and subjects of the two Powers.</p>
+citizens, and subjects of the two Powers.
 
-<p>For the construction put on this article by Great Britain, it is
+For the construction put on this article by Great Britain, it is
 necessary to recur again to the statement of her claim, as given by
-herself, and to her own acts subsequent to the convention.</p>
+herself, and to her own acts subsequent to the convention.
 
-<p>The acts of England, subsequent to the convention of 1818, are<span class='pagenum'><a name="Page_38" id="Page_38">[Pg 38]</a></span> to be
+The acts of England, subsequent to the convention of 1818, are to be
 found in the various charters of the Hudson Bay Company (observing that
 some of their most important provisions, though of a much earlier date,
 stand unrepealed), and in the act of Parliament of the year 1821, which
 confirms and extends a prior one of the year 1803. It must also be
 recollected that, by grants or acts subsequent to the convention, the
 ancient Hudson Bay Company and the Northwest Company of Montreal have
-been united together, preserving the name of Hudson Bay Company.</p>
+been united together, preserving the name of Hudson Bay Company.
 
-<p>This Company was and remains a body corporate and politic, with
+This Company was and remains a body corporate and politic, with
 provisions for the election of a Governor and other officers, who direct
 its business; and amongst other powers, the Company is empowered to
 build fortifications for the defence of its possessions, as well as to
@@ -1317,9 +1244,9 @@ Parliament of 1821, the jurisdiction of the courts of Upper Canada is
 extended, in all civil and criminal cases, to the Oregon territory;
 provision is made for the appointment of justices of the peace within
 the said territory, with a limited jurisdiction, and power to act as
-Commissioners in certain cases, and to convey offenders to Upper Canada.</p>
+Commissioners in certain cases, and to convey offenders to Upper Canada.
 
-<p>It must also be observed that, although the Company is forbidden to
+It must also be observed that, although the Company is forbidden to
 claim any exclusive trade with the Indians, to the prejudice or
 exclusion of any citizen of the United States who may be engaged in the
 same trade, yet the jurisdiction above mentioned is, by the letter of
@@ -1328,18 +1255,18 @@ said territory. The British Plenipotentiaries did, however, explicitly
 declare, in the course of the negotiations of 1826-1827, that the act
 had no other object but the maintenance of order amongst British
 subjects, and had never been intended to apply to citizens of the United
-States.</p>
+States.
 
-<p>It is perfectly clear that, since it has been fully admitted that the
+It is perfectly clear that, since it has been fully admitted that the
 United States possess the same rights over the territory as Great
 Britain, they are fully authorized, under the convention, to enjoy all
 the rights which Great Britain claims for herself, and to exercise that
 jurisdiction which she has assumed as being consistent with the
-convention.</p>
+convention.
 
-<p>The citizens of the United States have, therefore, at this time a<span class='pagenum'><a name="Page_39" id="Page_39">[Pg 39]</a></span> full
+The citizens of the United States have, therefore, at this time a full
 and acknowledged right to navigate the waters of the Oregon territory,
-<i>to settle in and over any part of it</i>, and freely to trade with the
+_to settle in and over any part of it_, and freely to trade with the
 inhabitants and occupiers of the same. And the Government of the United
 States is likewise fully authorized to incorporate any company or
 association of men for the purpose of trading or of occupying and
@@ -1349,33 +1276,33 @@ criminal cases, to the territory aforesaid; to appoint within the same
 justices of the peace and such other officers as may be necessary for
 carrying the jurisdiction into effect; and also to make war and peace
 with the Indian inhabitants of the territory, including the incidental
-power to appoint agents for that purpose.</p>
+power to appoint agents for that purpose.
 
-<p>On the other hand, it seems to be understood that, so long as the
+On the other hand, it seems to be understood that, so long as the
 convention remains in force, neither Government shall lay duties in the
 Territory on tonnage, merchandise, or commerce; nor exercise exclusive
 jurisdiction over any portion of it; and that the citizens and subjects
 of the two Powers, residing in or removing to the territory, shall be
-amenable only to the jurisdiction of their own country respectively.</p>
+amenable only to the jurisdiction of their own country respectively.
 
-<p>It has been contended by the British Government that the establishment
+It has been contended by the British Government that the establishment
 of any military post, or the introduction of any regular force under a
 national flag, by either Power, would be an act of exclusive
 sovereignty, which could not be permitted to either whilst the
 sovereignty remained in abeyance. Under existing circumstances, it is
 believed that such an act would be highly dangerous, and prove
-unfavorable to the United States.</p>
+unfavorable to the United States.
 
-<p>But the establishment by the United States of a Territorial Government
+But the establishment by the United States of a Territorial Government
 over Oregon is also objected to on the same principle. The want of such
 government appears to be the only serious inconvenience attending a
-continuance of the convention, and requires special consideration.</p>
+continuance of the convention, and requires special consideration.
 
-<p>The United States have the same right as Great Britain, and are equally
+The United States have the same right as Great Britain, and are equally
 bound, to protect their citizens residing in the Oregon territory, in
 the exercise of all the rights secured to them by the convention. It has
 been fully admitted that these rights embrace the right to settle in and
-over any part of the territory, and that they<span class='pagenum'><a name="Page_40" id="Page_40">[Pg 40]</a></span> are to be, in all cases
+over any part of the territory, and that they are to be, in all cases
 whatever, amenable only to the jurisdiction of their own country. The
 subjects of Great Britain, who are not in the employ of the Hudson Bay
 Company, are forbidden to trade with the natives; and the company does
@@ -1388,9 +1315,9 @@ indemnify them, the United States would be justly entitled to appeal to
 the British Government for the redress of a violation of rights secured
 by the convention; for the British Government has preserved a control
 over the Hudson Bay Company, and does in fact, through it, govern the
-British subjects who reside in the territory.</p>
+British subjects who reside in the territory.
 
-<p>The United States are placed, in that respect, in a very different
+The United States are placed, in that respect, in a very different
 situation. It is not believed that the General Government is authorized
 to incorporate, as a political body, a commercial company, with such
 powers as would give it an efficient control over the private citizens
@@ -1405,12 +1332,12 @@ laws to be executed, and to have that general control which is now
 exercised, through the Hudson Bay Company, by the British Government.
 There are, besides, various acts of a public though local nature, such
 as opening roads, making bridges, erecting block-houses for protection
-against the natives, providing for the destitute, &amp;c., all which are
+against the natives, providing for the destitute, &c., all which are
 performed by the Hudson Bay Company, and cannot be accomplished by
-insulated individuals, bound by no legal association or government.</p>
+insulated individuals, bound by no legal association or government.
 
-<p>Whether any measures may be devised, other than a territorial
-government, that will be sufficient for the purpose intended;<span class='pagenum'><a name="Page_41" id="Page_41">[Pg 41]</a></span> whether
+Whether any measures may be devised, other than a territorial
+government, that will be sufficient for the purpose intended; whether
 all the American citizens residing in Oregon might not be incorporated
 and made a body politic, with powers equivalent to those vested in the
 Hudson Bay Company, and with the reservation by the General Government
@@ -1425,9 +1352,9 @@ sufficient that this should be accompanied with provisions, preventing
 the possibility of the powers exercised by the United States being ever
 applied to British subjects, and with an explicit declaration that these
 powers should never be construed as an admission by Great Britain of any
-claim of the United States to exclusive sovereignty.</p>
+claim of the United States to exclusive sovereignty.
 
-<p>There is another important subject which has not, it is believed, ever
+There is another important subject which has not, it is believed, ever
 been discussed by the two Powers. This is the claim to the ownership of
 the places settled and improved under the convention. It seems to me
 that, on the principles of both natural and international law, these
@@ -1438,16 +1365,16 @@ recognized. It appears also that the United States may, in conformity
 with the convention, and without affecting in any shape the claims
 advanced by Great Britain, pass a law declaring that they abandon or
 grant without warranty, to such of their citizens as shall have made
-actual and bon&acirc; fide settlements in any part of Oregon, under the
+actual and bonâ fide settlements in any part of Oregon, under the
 convention, all the rights of and claims to the ownership of the soil,
 on which such settlements shall have been made, which the United States
 may now or hereafter claim or acquire: limiting and defining the extent
 of the grant in the same manner as would be done if such grant was
 absolute; and promising that the title should be confirmed, in case and
 whenever the sovereignty of the United States was recognized or asserted
-and maintained.</p>
+and maintained.
 
-<p><span class='pagenum'><a name="Page_42" id="Page_42">[Pg 42]</a></span></p><p>The prolongation, in 1827, of the convention of 1818, was evidently
+The prolongation, in 1827, of the convention of 1818, was evidently
 intended as a temporary measure, since it was made revocable at the will
 of either party. The plenipotentiaries of the two Powers had been unable
 to agree on the terms of a definitive arrangement, or even in defining
@@ -1478,10 +1405,10 @@ on, with the hope that the two Powers would embrace an early
 opportunity, if not to make a definitive arrangement, at least to
 substitute for the convention another, defining with precision the acts
 which both parties should be allowed or forbidden to perform so long as
-the sovereignty remained in abeyance.</p>
+the sovereignty remained in abeyance.
 
-<p>The inconveniences alluded to have been fairly stated in this paper, and
-some of the means by which they may be avoided<span class='pagenum'><a name="Page_43" id="Page_43">[Pg 43]</a></span> have been suggested. It
+The inconveniences alluded to have been fairly stated in this paper, and
+some of the means by which they may be avoided have been suggested. It
 is not, therefore, on account of the intrinsic value of the convention
 that its abrogation is objectionable and dangerous. It is because
 nothing is substituted in its place; it is because, if the two Powers
@@ -1497,15 +1424,15 @@ an agreement however defective to a promiscuous occupancy, without any
 provisions whatever that may prevent collisions, is highly dangerous.
 When this is accompanied by an avowed determination on the part of the
 United States to assume that exclusive sovereignty which Great Britain
-has positively declared she would resist, War becomes inevitable.</p>
+has positively declared she would resist, War becomes inevitable.
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_44" id="Page_44">[Pg 44]</a></span></p>
 
-<h2>NUMBER V.</h2>
 
-<p>It may not be possible to calculate, with any degree of certainty, the
+NUMBER V.
+
+
+It may not be possible to calculate, with any degree of certainty, the
 number of citizens of the United States who, aided by these various
 measures, will, within any given period, remove to the territory beyond
 the Stony Mountains. It is certain that this number will annually
@@ -1513,9 +1440,9 @@ increase, and keep pace with the rapid increase of the population of the
 Western States. It cannot be doubted that ultimately, and at no very
 distant time, they will have possession of all that is worth being
 occupied in the territory. On what principle, then, will the right of
-sovereignty be decided?</p>
+sovereignty be decided?
 
-<p>It may, however, be asked whether, if this be the inevitable consequence
+It may, however, be asked whether, if this be the inevitable consequence
 of the continuance of the convention, England will not herself give
 notice that it shall be abrogated. It might be sufficient to answer that
 we must wait till that notice shall have been given, and the subsequent
@@ -1529,12 +1456,12 @@ her part be followed by aggressive measures; should she assume exclusive
 possession over Oregon or any part of it, as it is now proposed that the
 United States should do, America will then be placed in a defensive
 position; the war, if any should ensue, will be one unprovoked by her, a
-war purely of<span class='pagenum'><a name="Page_45" id="Page_45">[Pg 45]</a></span> defence, which will be not only sustained, but approved
+war purely of defence, which will be not only sustained, but approved
 by the unanimous voice of the nation. We may, however, be permitted to
 examine what motive could impel England, what interest she might have,
-either in annulling the convention or in adopting aggressive measures.</p>
+either in annulling the convention or in adopting aggressive measures.
 
-<p>When it is recommended that the United States should give notice of the
+When it is recommended that the United States should give notice of the
 abrogation of the convention, it is with the avowed object of adopting
 measures forbidden by the convention, and which Great Britain has
 uniformly declared she would resist. But, according to the view of the
@@ -1563,10 +1490,10 @@ years, retracting her admission of the equal rights of the United States
 to trade, to occupy, and to make settlements in any part of the country,
 she should, without cause or pretext, assume, as is now threatened on
 the part of the United States, exclusive sovereignty over the whole or
-part of the territory. It may<span class='pagenum'><a name="Page_46" id="Page_46">[Pg 46]</a></span> be permitted to believe that the British
-Government entertains no such intention.</p>
+part of the territory. It may be permitted to believe that the British
+Government entertains no such intention.
 
-<p>It may also be observed that England has heretofore evinced no
+It may also be observed that England has heretofore evinced no
 disposition whatever to colonize the territory in question. She has,
 indeed, declared most explicitly her determination to protect the
 British interests that had been created by British enterprise and
@@ -1580,9 +1507,9 @@ within its limits than those vested in, or connected with the Hudson Bay
 Company. Whether the British Government will hereafter make any effort
 towards that object cannot be known; but as long as this right to
 colonize Oregon shall remain common to both Powers, the United States
-have nothing to apprehend from the competition.</p>
+have nothing to apprehend from the competition.
 
-<p>The negotiations on that subject between the two Governments have been
+The negotiations on that subject between the two Governments have been
 carried on, on both sides, with perfect candor. The views and intentions
 of both parties were mutually communicated without reserve. The
 conviction on the part of America that the country must ultimately be
@@ -1590,31 +1517,33 @@ occupied and settled by her agricultural emigrants, was used as an
 argument why, in case of a division of the territory, the greater share
 should be allotted to the United States. The following quotation, from
 the American statement of the case of December, 1826, proves that this
-expectation was fairly avowed at the time:</p>
+expectation was fairly avowed at the time:
 
-<blockquote><p>"If the present state of occupancy is urged on the part of Great
-Britain, the probability of the manner in which the territory west
-of the Rocky Mountains must be settled belongs also essentially to
-the subject. Under whatever nominal sovereignty that country may be
-placed, and whatever its ultimate destinies may be, it is nearly
-reduced to a certainty that it will be almost exclusively peopled
-by the surplus population of the United States. The distance from
-Great Britain, and the expense incident to emigration, forbid the
-expectation of any being practicable from that quarter but on a
-comparatively small scale. Allowing the rate of increase to be the
-same in<span class='pagenum'><a name="Page_47" id="Page_47">[Pg 47]</a></span> the United States and in the North American British
-possessions, the difference in the actual population of both is
-such that the progressive rate which would, within forty years, add
-three millions to these, would within the same time give a positive
-increase of more than twenty millions to the United States. And if
-circumstances, arising from localities and habits, have given
-superior facilities to British subjects of extending their commerce
-with the natives, and to that expansion which has the appearance,
-and the appearance only, of occupancy, the slower but sure progress
-and extension of an agricultural population will be regulated by
-distance, by natural obstacles, and by its own amount."</p></blockquote>
 
-<p>There was no exaggeration in that comparative view; the superiority of
+     "If the present state of occupancy is urged on the part of Great
+     Britain, the probability of the manner in which the territory west
+     of the Rocky Mountains must be settled belongs also essentially to
+     the subject. Under whatever nominal sovereignty that country may be
+     placed, and whatever its ultimate destinies may be, it is nearly
+     reduced to a certainty that it will be almost exclusively peopled
+     by the surplus population of the United States. The distance from
+     Great Britain, and the expense incident to emigration, forbid the
+     expectation of any being practicable from that quarter but on a
+     comparatively small scale. Allowing the rate of increase to be the
+     same in the United States and in the North American British
+     possessions, the difference in the actual population of both is
+     such that the progressive rate which would, within forty years, add
+     three millions to these, would within the same time give a positive
+     increase of more than twenty millions to the United States. And if
+     circumstances, arising from localities and habits, have given
+     superior facilities to British subjects of extending their commerce
+     with the natives, and to that expansion which has the appearance,
+     and the appearance only, of occupancy, the slower but sure progress
+     and extension of an agricultural population will be regulated by
+     distance, by natural obstacles, and by its own amount."
+
+
+There was no exaggeration in that comparative view; the superiority of
 the progressive increase of population in the United States was, on the
 contrary, underrated. The essential difference is, that migration from
 the United States to Oregon is the result of purely natural causes,
@@ -1625,9 +1554,9 @@ will at first be limited by the amount of provisions with which the
 earlier settlers can supply them during the first year, and till they
 can raise a crop themselves; and the rapidity with which a new country
 may be settled is also lessened where maize cannot be profitably
-cultivated.</p>
+cultivated.
 
-<p>Whether more or less prompt, the result is nevertheless indubitable. The
+Whether more or less prompt, the result is nevertheless indubitable. The
 snowball sooner or later becomes an avalanche: where the cultivator of
 the soil has once made a permanent establishment game and hunters
 disappear; within a few years the fur trade will have died its natural
@@ -1636,12 +1565,12 @@ that temporary occupancy, of those vested British interests, which the
 British Government is now bound to protect. When the whole territory
 shall have thus fallen in the possession of an agricultural industrious
 population, the question recurs, by what principle will then the right
-of sovereignty, all along kept in abeyance, be determined?</p>
+of sovereignty, all along kept in abeyance, be determined?
 
-<p>The answer is obvious. In conformity with natural law, with that right
+The answer is obvious. In conformity with natural law, with that right
 of occupancy for which Great Britain has always contended, the occupiers
 of the land, the inhabitants of the country, from whatever quarter they
-may have come, will be of right as<span class='pagenum'><a name="Page_48" id="Page_48">[Pg 48]</a></span> well as in fact the sole legitimate
+may have come, will be of right as well as in fact the sole legitimate
 sovereigns of Oregon. Whenever sufficiently numerous, they will decide
 whether it suits them best to be an independent nation or an integral
 part of our great Republic. There cannot be the slightest apprehension
@@ -1653,42 +1582,42 @@ opinion appears correct, that it will be best for both the Atlantic and
 the Pacific American nations, whilst entertaining the most friendly
 relations, to remain independent rather than to be united under the same
 Government. But this conclusion is premature; and the decision must be
-left to posterity.</p>
+left to posterity.
 
-<p>It has been attempted in these papers to prove&mdash;</p>
+It has been attempted in these papers to prove--
 
-<p>1. That neither of the two Powers has an absolute and indisputable right
+1. That neither of the two Powers has an absolute and indisputable right
 to the whole contested territory; that each may recede from its extreme
 pretensions without impairing national honor or wounding national pride;
-and that the way is therefore still open for a renewal of negotiations.</p>
+and that the way is therefore still open for a renewal of negotiations.
 
-<p>2. That the avowed object of the United States, in giving notice of the
+2. That the avowed object of the United States, in giving notice of the
 abrogation of the convention, is the determination to assert and
 maintain their assumed right of absolute and exclusive sovereignty over
 the whole territory; that Great Britain is fully committed on that
 point, and has constantly and explicitly declared that such an attempt
 would be resisted, and the British interests in that quarter be
 protected; and that war is therefore the unavoidable consequence of such
-a decisive step&mdash;a war not only necessarily calamitous and expensive,
+a decisive step--a war not only necessarily calamitous and expensive,
 but in its character aggressive, not justifiable by the magnitude and
-importance of its object, and of which the chances are uncertain.</p>
+importance of its object, and of which the chances are uncertain.
 
-<p>3. That the inconveniences of the present state of things may in a great
+3. That the inconveniences of the present state of things may in a great
 degree be avoided; that, if no war should ensue, they will be the same,
 if not greater, without than under a convention; that not a single
 object can be gained by giving the notice at this time, unless it be to
 do something not permitted by the present convention, and therefore
-provoking resistance and productive of war. If<span class='pagenum'><a name="Page_49" id="Page_49">[Pg 49]</a></span> a single other advantage
-can be gained by giving the notice, let it be stated.</p>
+provoking resistance and productive of war. If a single other advantage
+can be gained by giving the notice, let it be stated.
 
-<p>4th. That it has been fully admitted by Great Britain that, whether
+4th. That it has been fully admitted by Great Britain that, whether
 under or without a convention, the United States have the same rights as
 herself, to trade, to navigate, and to occupy and make settlements in
 and over every part of the territory; and that, if this state of things
 be not disturbed, natural causes must necessarily give the whole
-territory to the United States.</p>
+territory to the United States.
 
-<p>Under these circumstances, it is only asked, that the subject may be
+Under these circumstances, it is only asked, that the subject may be
 postponed for the present; that Government should not commit itself by
 any premature act or declaration; that, instead of increasing the
 irritation and excitement which exist on both sides, time be given for
@@ -1696,9 +1625,9 @@ mutual reflection, and for the subdual or subsidence of angry and
 violent feelings. Then, and then only, can the deliberate opinion of the
 American people on this momentous question be truly ascertained. It is
 not perceived how the postponement for the present and for a time can,
-in any shape or in the slightest degree, injure the United States.</p>
+in any shape or in the slightest degree, injure the United States.
 
-<p>It is certainly true that England is very powerful, and has often abused
+It is certainly true that England is very powerful, and has often abused
 her power, in no case in a more outrageous manner than by the
 impressment of seamen, whether American, English, or other foreigners,
 sailing under and protected by the American flag. I am not aware that
@@ -1708,15 +1637,15 @@ The United States, who always appealed to justice during their early
 youth, seem, as their strength and power increase, to give symptoms of a
 similar disposition. Instead of useless and dangerous recriminations,
 might not the two nations, by their united efforts, promote a great
-object, and worthy of their elevated situation?</p>
+object, and worthy of their elevated situation?
 
-<p>With the single exception of the territory of Oregon, which extends from
-42 to 54&deg; 40&acute; north latitude, all the American shores of the Pacific
+With the single exception of the territory of Oregon, which extends from
+42 to 54° 40´ north latitude, all the American shores of the Pacific
 Ocean, from Cape Horn to Behring's Straits, are occupied, on the north
 by the factories of the Russian Fur Company, southwardly by
 semi-civilized States, a mixture of Europeans of Spanish descent and of
 native Indians, who, notwithstanding the efforts of enlightened,
-intelligent, and liberal men, have<span class='pagenum'><a name="Page_50" id="Page_50">[Pg 50]</a></span> heretofore failed in the attempt to
+intelligent, and liberal men, have heretofore failed in the attempt to
 establish governments founded on law, that might ensure liberty,
 preserve order, and protect persons and property. It is in Oregon alone
 that we may hope to see a portion of the western shores of America
@@ -1739,9 +1668,9 @@ Great Britain; yet, since permitted by both Powers, they may be presumed
 to be beneficial to both. The emigrants to Oregon, whether Americans or
 English, will be united together by the community of language and
 literature, of the principles of law, and of all the fundamental
-elements of a similar civilisation.</p>
+elements of a similar civilisation.
 
-<p>The establishment of a kindred and friendly Power on the North-west
+The establishment of a kindred and friendly Power on the North-west
 Coast of America is all that England can expect, all perhaps that the
 United States ought to desire. It seems almost incredible that, whilst
 that object may be attained by simply not impeding the effect of natural
@@ -1752,41 +1681,41 @@ spectacle, perhaps not unwelcome to some of the beholders, of an
 unnatural and an unnecessary war; that they should apply all their
 faculties and exhaust their resources in inflicting, each on the other,
 every injury in their power, and for what purpose? The certain
-consequence, <span class='pagenum'><a name="Page_51" id="Page_51">[Pg 51]</a></span>independent of all the direct calamities and miseries of
+consequence, independent of all the direct calamities and miseries of
 war, will be a mutual increase of debt and taxation, and the ultimate
-fate of Oregon will be the same as if the war had not taken place.</p>
+fate of Oregon will be the same as if the war had not taken place.
 
-<hr />
 
-<p><span class='pagenum'><a name="Page_53" id="Page_53">[Pg 53]</a></span></p>
 
-<h2>APPENDIX.</h2>
 
-<p class="bold">WAR EXPENSES.</p>
+APPENDIX.
 
-<p>Those expenses may be arranged under three heads: 1st. Such as are of a
+
+WAR EXPENSES.
+
+Those expenses may be arranged under three heads: 1st. Such as are of a
 permanent nature, and should be considered as belonging to the Peace
 establishment of the country. 2dly. Those which should be adopted when
 there is an impending danger of war. 3dly. Those which actual war
-renders necessary.</p>
+renders necessary.
 
-<p>To the first class belong all those, which provide for objects that
+To the first class belong all those, which provide for objects that
 require considerable time to be executed, and cannot, without great
 difficulty, be accomplished pending a war. Such are fortifications,
 building ships of war including steamers, accumulating materials for the
 same purpose, Navy Yards, providing a sufficient artillery, and other
 important objects of the ordnance department. It may be taken for
 granted, that Government has done, or will do all that is necessary and
-practicable in that respect.</p>
+practicable in that respect.
 
-<p>The preparatory measures which should be adopted, when there is danger
+The preparatory measures which should be adopted, when there is danger
 of war, are those respecting which the greatest variety of opinions must
 be expected. It has been repeatedly asserted, that such is the structure
 of our Government, that it never will or can prepare for war, till after
 it has actually commenced; that is to say, that, because Congress was
 dilatory in making effectual provision for carrying on the last war
 against Great Britain, and because the Administration, at the time when
-it was declared, was<span class='pagenum'><a name="Page_54" id="Page_54">[Pg 54]</a></span> inefficient and not well calculated for conducting
+it was declared, was inefficient and not well calculated for conducting
 it, the United States are bound for ever to incur, at the commencement
 of every war, the disasters of one or two years, before they can be
 induced to put on their armor. The past is irrevocable and of no other
@@ -1807,12 +1736,12 @@ attempt to conceal from them the necessity of the measures requisite for
 carrying on the war should be successful, a reaction in the public
 sentiment will most certainly take place, whenever it will have become
 impossible to delay any longer the heavy burden of taxation, for which
-the Nation had not been prepared.</p>
+the Nation had not been prepared.
 
-<p>I will not dwell on the necessary preparations of a military character,
-otherwise than by referring to some notorious facts.</p>
+I will not dwell on the necessary preparations of a military character,
+otherwise than by referring to some notorious facts.
 
-<p>The primary causes of the disastrous results of the campaign of 1812,
+The primary causes of the disastrous results of the campaign of 1812,
 were the want of a naval force on the Lakes, and that of a sufficient
 regular force. Government had obtained a correct statement of the
 regular force of the British in Canada, with the exception of the
@@ -1822,16 +1751,16 @@ The regular force at Montreal, St. John's, and Three Rivers, amounted to
 1130 men; that in the whole of Upper Canada, to 720. The act to raise an
 additional military force of 25,000 men was passed on the 11th of
 January, 1812. The selection of the officers was not completed before
-the termination of that year; the recruiting service was not organized<span class='pagenum'><a name="Page_55" id="Page_55">[Pg 55]</a></span>
+the termination of that year; the recruiting service was not organized
 in time; the enlistments for the regular army fell short of the most
 moderate calculation; and the total number recruited was so small, as to
 render it impossible to strike a decisive blow on any one of the most
 important points from Montreal upwards, insignificant as was the force
 by which they were defended. The volunteer act was also extremely
 unproductive. At that time the treasury was amply supplied; and the want
-was not that of money, but of a regular force.</p>
+was not that of money, but of a regular force.
 
-<p>Such force cannot be raised without money; and yet it will be admitted
+Such force cannot be raised without money; and yet it will be admitted
 that it would be extremely difficult to induce Congress to lay internal
 taxes or duties before war was declared or certain. In order to provide
 means for having an additional regular force ready to act as soon as
@@ -1851,14 +1780,14 @@ ratified immediately after; and in point of fact, no more than 3,877,000
 dollars were paid in the Treasury before the end of the war, on account
 of the direct tax and all other internal taxes or duties. There were
 received from the same sources 20,654,000 dollars in the years 1815,
-1816 and 1817.</p>
+1816 and 1817.
 
-<p>The preparatory measures necessary, in order to insure an immediate
+The preparatory measures necessary, in order to insure an immediate
 collection of internal taxes, whenever the laws imposing such taxes
 shall have been passed, are those on which I may speak with confidence.
 These consist simply in a previous organization of the machinery
 necessary for the collection of every species of internal taxes, and the
-assessment of a direct tax.<span class='pagenum'><a name="Page_56" id="Page_56">[Pg 56]</a></span> The proper selection of the numerous
+assessment of a direct tax. The proper selection of the numerous
 officers necessary for the collection always consumes several months. A
 previous selection and appointment of those officers would obviate that
 difficulty, and would cost nothing, as though appointed they should
@@ -1867,15 +1796,15 @@ natural consequence of the manner in which collectors are paid, this
 being a per centage on the money collected. The only other necessary
 measure in that respect, is that the Secretary of the Treasury should,
 at the time of their appointment, supply the collectors with all the
-necessary forms of keeping and rendering their accounts.</p>
+necessary forms of keeping and rendering their accounts.
 
-<p>The assessment in each State of the taxable property of every individual
+The assessment in each State of the taxable property of every individual
 who possesses such property, is the only operation which requires
 considerable time and causes a proportionate delay. This cannot be
 otherwise obviated than by making that assessment a preparatory measure,
-to be completed before actual war takes place.</p>
+to be completed before actual war takes place.
 
-<p>In order to facilitate and hasten the process of assessment, I
+In order to facilitate and hasten the process of assessment, I
 undertook, in the year 1812, to apportion the direct tax on the several
 Counties and State Districts in each State; and the Act of 2d August,
 1813, which laid a direct tax of three millions of dollars, was passed
@@ -1890,22 +1819,22 @@ County or District, on the several individuals liable to the tax, and
 the total expense of the assessment to a sum not exceeding probably two
 hundred thousand dollars. A more regular and correct assessment will, of
 course, be provided for, with respect to the direct taxes which may be
-laid after the first year of the war.</p>
+laid after the first year of the war.
 
-<p>The only objection is that of the expense, which would prove useless if
+The only objection is that of the expense, which would prove useless if
 the tax should not be laid, or in other words, if war should not take
-place; but certainly this is too small an item to deserve consideration.</p>
+place; but certainly this is too small an item to deserve consideration.
 
-<p><span class='pagenum'><a name="Page_57" id="Page_57">[Pg 57]</a></span></p><p>This organization, easy and cheap as it is, is all that is necessary in
+This organization, easy and cheap as it is, is all that is necessary in
 order to secure an immediate collection of a direct and other internal
 taxes and duties, from the moment when they shall have been imposed by
-Congress.</p>
+Congress.
 
-<p>The probable annual expenses which must be incurred in a war with
+The probable annual expenses which must be incurred in a war with
 England, and the resources for defraying them, are the next objects of
-inquiry.</p>
+inquiry.
 
-<p>It is extremely difficult to draw any correct inference from the
+It is extremely difficult to draw any correct inference from the
 expenses of the last war with England: the amount of the arrearages due
 on account of the military services at the time when the peace was
 ratified, is not stated with precision in any of the public documents
@@ -1917,9 +1846,9 @@ been sufficient under a regular and efficient system. This has
 undoubtedly been much improved; yet the expenses incurred in the
 Seminole war, compared with the number of men employed and that of the
 hostile Indians, show that either there are still some defects in the
-organization, or that there were great abuses in the execution.</p>
+organization, or that there were great abuses in the execution.
 
-<p>The payments from the Treasury for the military department, embracing
+The payments from the Treasury for the military department, embracing
 only those for the army proper, militia and volunteers, and exclusive of
 those for fortifications and the Indian department, amounted for the
 year 1813 to 18,936,000 dollars, and for the year 1814 to 20,508,000
@@ -1930,11 +1859,11 @@ it would appear that the arrearages due on 1st January, 1815, exceeded
 ten millions of dollars: and it seems certain that the actual war
 expenses of 1814 could not have fallen short of 35 to 40 millions of
 dollars. It has been asserted that the regular force during that year
-amounted to 35,000 men.</p>
+amounted to 35,000 men.
 
-<p>The population of the United States has nearly trebled during the
+The population of the United States has nearly trebled during the
 thirty-four years which have elapsed since that in which the last war
-against England was declared. Their wealth and<span class='pagenum'><a name="Page_58" id="Page_58">[Pg 58]</a></span> resources have increased
+against England was declared. Their wealth and resources have increased
 in the same ratio; and that, in case of war, these should be brought
 into action as promptly as possible, admits of no doubt. Once engaged in
 the conflict, to make the war as efficient as possible will shorten its
@@ -1960,23 +1889,23 @@ ending on the 30th of June, 1845, amounted to near fifteen millions, but
 which the Secretary of the Treasury hopes may be reduced to eleven
 millions and a half. The gross annual expenses for all objects will be
 estimated at seventy-seven millions; to be increased annually by the
-annual interest on each successive loan.</p>
+annual interest on each successive loan.
 
-<p>In order to ascertain the amount of new revenue and loans required to
+In order to ascertain the amount of new revenue and loans required to
 defray that expense, the first question which arises, is the diminution
 of the revenue derived from customs, which will be the necessary
-consequence of the war.</p>
+consequence of the war.
 
-<p>The actual receipts into the Treasury, arising from that source of
+The actual receipts into the Treasury, arising from that source of
 revenue, were in round numbers for the years 1812, 1813, 1814,
 respectively 8,960,000, 13,225,000, and 6,000,000 of dollars; and the
-nett revenue which accrued during those three years <span class='pagenum'><a name="Page_59" id="Page_59">[Pg 59]</a></span>respectively
+nett revenue which accrued during those three years respectively
 amounted to 13,142,000, 6,708,000, and 4,250,000 dollars. From the 1st
 of July, 1812, the rate of duties on importations was doubled; and in
 order to compare these receipts with those collected in peace time, they
-must be reduced for those three years respectively, to 7,470,000,<a name="FNanchor_3_3" id="FNanchor_3_3"></a><a href="#Footnote_3_3" class="fnanchor">[3]</a>
+must be reduced for those three years respectively, to 7,470,000,[3]
 6,600,000 and 3,000,000; or, if the revenue accrued be compared (which
-is the correct mode), to 9,850,000,<a name="FNanchor_3a_3a" id="FNanchor_3a_3a"></a><a href="#Footnote_3a_3a" class="fnanchor">[3]</a> 3,354,000, and 2,125,000 dollars.
+is the correct mode), to 9,850,000,[3] 3,354,000, and 2,125,000 dollars.
 At that time the duties accrued were, on account of the credit allowed,
 collected on an average only six or eight months later; and the
 unexpected importations in the latter half of the year 1812 in American
@@ -1984,65 +1913,42 @@ vessels which arrived with British licenses, subsequent to the
 declaration of war and to the act which doubled the rate of duties,
 swelled considerably the receipts of the year 1813. It was only in 1814
 that the full effect of the war on the revenue derived from that source
-was felt.</p>
+was felt.
 
-<p>The diminution in the amount of American and foreign tonnage employed in
+The diminution in the amount of American and foreign tonnage employed in
 the foreign trade of the United States is strongly exhibited by the
-following statement:</p>
+following statement:
 
-<table summary="American and foreign tonnage">
-  <tr>
-    <td class="center">Tonnage in foreign trade, U. S.&nbsp;&nbsp;</td>
-    <td class="center">&nbsp; &nbsp;American ves.</td>
-    <td class="center">&nbsp; &nbsp;Foreign ves.</td>
-    <td class="center">&nbsp; &nbsp;Total.</td>
-  </tr>
-  <tr>
-    <td class="center">Year 1811</td>
-    <td class="center">948,207</td>
-    <td class="center">&nbsp;33,203</td>
-    <td class="center">981,450</td>
-  </tr>
-  <tr>
-    <td class="center">&nbsp;&nbsp;"&nbsp;  &nbsp;1812</td>
-    <td class="center">667,999</td>
-    <td class="center">&nbsp;47,099</td>
-    <td class="center">715,098</td>
-  </tr>
-  <tr>
-    <td class="center">&nbsp;&nbsp;"&nbsp;  &nbsp;1813</td>
-    <td class="center">237,348</td>
-    <td class="center">113,827</td>
-    <td class="center">351,175</td>
-  </tr>
-  <tr>
-    <td class="center">&nbsp;&nbsp;"&nbsp;  &nbsp;1814</td>
-    <td class="center">&nbsp;59,626</td>
-    <td class="center">&nbsp;48,302</td>
-    <td class="center">107,928</td>
-  </tr>
-</table>
 
-<p>And it must be recollected that during the last nine months of 1814,
+Tonnage in foreign trade, U. S.   American ves.   Foreign ves.   Total.
+
+      Year 1811                     948,207          33,203      981,450
+       "   1812                     667,999          47,099      715,098
+       "   1813                     237,348         113,827      351,175
+       "   1814                      59,626          48,302      107,928
+
+
+And it must be recollected that during the last nine months of 1814,
 Great Britain was at peace with all the other Powers of Europe, and that
-these were therefore neutrals. Yet they hardly ventured to trade with us.</p>
+these were therefore neutrals. Yet they hardly ventured to trade with
+us.
 
-<p>The amount of receipts into the Treasury derived from customs, as well
+The amount of receipts into the Treasury derived from customs, as well
 as that of the revenue accrued, exceeded, during the eleven years 1801
 to 1811, 132,700,000 dollars, being an annual average of about
 12,000,000 dollars. During the same eleven years the average amount of
 tonnage employed in the foreign trade of the United States was 943,670
-tons, of which 844,170 were in American, and 99,500 foreign vessels.</p>
+tons, of which 844,170 were in American, and 99,500 foreign vessels.
 
-<p><span class='pagenum'><a name="Page_60" id="Page_60">[Pg 60]</a></span></p><p>Thus in the year 1814, the revenue derived from customs had been
+Thus in the year 1814, the revenue derived from customs had been
 reduced to one fourth part (to nearly one sixth part, if compared
 according to the revenue accrued, or amount of importations), the
 tonnage employed in the foreign trade of the United States to nearly one
 ninth; and that of the American vessels employed in that trade, to one
 fourteenth part of their respective average amount during the eleven
-years of peace.</p>
+years of peace.
 
-<p>The small American navy did during the last war with England all and
+The small American navy did during the last war with England all and
 more than could have been expected. The fact was established to the
 satisfaction of the world and of Great Britain herself, that the navy of
 the United States, with a parity of force, was at least equal to that of
@@ -2068,105 +1974,35 @@ estimated at about six millions of dollars on an average. However
 energetic and efficient Congress and the Executive may be, the resources
 and strength of the nation can be but gradually brought forth: the
 expenses will therefore be less during the first year, after which the
-whole amount will be required and will be <span class='pagenum'><a name="Page_61" id="Page_61">[Pg 61]</a></span>annually wanted. In reference
-therefore to the second year of the war&mdash;</p>
+whole amount will be required and will be annually wanted. In reference
+therefore to the second year of the war--
 
-<table summary="expenses">
-  <tr>
-    <td colspan="3" class="left">Assuming the total war expenses at</td>
-    <td>$65,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">All the others at</td>
-    <td>12,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="4">&mdash;&mdash;&mdash;&mdash;&mdash;</td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;</td>
-    <td>&nbsp;&nbsp;&nbsp;</td>
-    <td class="left">In all,</td>
-    <td class="center">$77,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">From which deduct for existing revenue,</td>
-    <td>14,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="4">&mdash;&mdash;&mdash;&mdash;&mdash;</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">To be provided for by taxes and loans,</td>
-    <td>$63,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">On the principle that the amount of annual taxes</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">should be at least equal to the expenses of</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">the peace establishment and the interest on</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">the war loans, annual peace expenses at</td>
-   <td>27,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">And for interest on the loans of 1st and 2d years,</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">viz. 1st year 25, and 2d year 45 millions at</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">7 per cent.</td>
-   <td>5,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="4">&mdash;&mdash;&mdash;&mdash;&mdash;</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td class="left">Together,</td>
-    <td class="center">$32,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">From which deduct for existing revenue,</td>
-    <td>14,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="4">&mdash;&mdash;&mdash;&mdash;&mdash;</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">Leaves to be provided for by new taxes, at least</td>
-    <td>$18,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">And by loans,</td>
-    <td>45,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="4">&mdash;&mdash;&mdash;&mdash;&mdash;</td>
-  </tr>
-  <tr>
-    <td colspan="3"></td>
-    <td>$63,000,000</td>
-  </tr>
-</table>
 
-<p>The estimate of 5,000,000 dollars for the interest of the loans the
+     Assuming the total war expenses at                  $65,000,000
+     All the others at                                    12,000,000
+                                                        ------------
+                          In all,                        $77,000,000
+     From which deduct for existing revenue,              14,000,000
+                                                        ------------
+     To be provided for by taxes and loans,              $63,000,000
+     On the principle that the amount of annual taxes
+       should be at least equal to the expenses of
+       the peace establishment and the interest on
+       the war loans, annual peace expenses at            27,000,000
+     And for interest on the loans of 1st and 2d years,
+       viz. 1st year 25, and 2d year 45 millions at
+       7 per cent.                                         5,000,000
+                                                        ------------
+                          Together,                      $32,000,000
+     From which deduct existing revenue,                  14,000,000
+                                                        ------------
+     Leaves to be provided for by new taxes, at least    $18,000,000
+     And by loans,                                        45,000,000
+                                                        ------------
+                                                         $63,000,000
+
+
+The estimate of 5,000,000 dollars for the interest of the loans the
 second year after the war, is founded on the supposition that the direct
 and other internal taxes or duties laid for the first year, together
 with the existing revenue, and twenty-five millions borrowed by loans or
@@ -2174,15 +2010,15 @@ Treasury notes, will be sufficient to defray the expense incurred prior
 to and during the first year of the war. The deficiency in the regular
 force for that year must be supplied by large drafts of militia, which
 will be as expensive at least as the regular soldiers whose place they
-will supply.</p>
+will supply.
 
-<p>But it appears very doubtful whether such a large sum as forty-five
+But it appears very doubtful whether such a large sum as forty-five
 millions can be raised annually by loans and Treasury notes. It is
 necessary in the first place to correct some erroneous opinions
 respecting the extent to which these notes may be kept in circulation,
-and the legitimate objects to which they may be applied.</p>
+and the legitimate objects to which they may be applied.
 
-<p>The Treasury notes were first introduced on my suggestion,<span class='pagenum'><a name="Page_62" id="Page_62">[Pg 62]</a></span> which was no
+The Treasury notes were first introduced on my suggestion, which was no
 new discovery, since they are a mere transcript of the Exchequer Bills
 of Great Britain. As these have been resorted to for more than a
 century, and have never become there a portion of the ordinary currency,
@@ -2193,36 +2029,26 @@ an anticipation of the revenue, or used by capitalists for short
 investments, the gross amount has rarely exceeded twenty millions
 sterling. Judging from past experience, the amount which may, in time of
 war, be kept in circulation at par in the United States falls far short
-of a proportionate sum.</p>
+of a proportionate sum.
 
-<table summary="Treasury Notes issued">
-  <tr>
-    <td colspan="2" class="left">The amount of Treasury Notes issued during</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;&nbsp;</td>
-    <td class="left">the years 1812 and 1813 amounted to</td>
-   <td>$8,930 000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Of which there had been paid including interest&nbsp;&nbsp;</td>
-    <td>$4,240 000</td>
-  </tr>
-</table>
 
-<p>The amount in actual circulation was less than five millions, and thus
-far they had been kept at par.</p>
+     The amount of Treasury Notes issued during the years 1812
+         and 1813 amounted to                        $8,930 000
+     Of which there had been paid including interest $4,240 000
 
-<p>All the demands from the other departments had been met by the Treasury,
+
+The amount in actual circulation was less than five millions, and thus
+far they had been kept at par.
+
+All the demands from the other departments had been met by the Treasury,
 and there were but few, if any, outstanding arrears. Nothing had as yet
 been collected on account of the direct tax and of the internal duties.
 Besides the five millions of Treasury Notes, there had been paid into
 the Treasury in the years 1812 and 1813, $28,740,000 on account of war
 loans, and $22,283,000 from the customs. The balance in the Treasury
-amounted to $5,196,542 on the 31st December, 1813.</p>
+amounted to $5,196,542 on the 31st December, 1813.
 
-<p>The amount of Treasury Notes issued during the year 1814 amounted to
+The amount of Treasury Notes issued during the year 1814 amounted to
 near eight millions, and there had been paid off during the same year,
 including interest, $2,700,000; making an addition of about five
 millions and a half, and the total amount outstanding about ten millions
@@ -2232,15 +2058,15 @@ $15,080,000, and from customs to only six millions. Before the end of
 the year, Government was unable to pay the notes which had become due.
 It is perfectly clear that, if new notes could not be issued in lieu of
 those which had become due, it was because they had fallen below par,
-and therefore that the amount outstanding was greater than the<span class='pagenum'><a name="Page_63" id="Page_63">[Pg 63]</a></span> demand
+and therefore that the amount outstanding was greater than the demand
 for them. There was but one remedy, and it was very simple. A reduction
 in that amount must be made, by funding at their market price a quantity
 sufficient to re-establish the equilibrium. But all the banks west of
 New England had in the meanwhile suspended their specie payments. A
 period of anarchy in the currency of the country was the consequence,
-and lasted till those payments were resumed in the year 1817.</p>
+and lasted till those payments were resumed in the year 1817.
 
-<p>The result of the suspension of specie payments in England was, that the
+The result of the suspension of specie payments in England was, that the
 notes of the Bank of England became in fact a legal tender and the
 standard of the currency. All the other banks were obliged to keep their
 own notes on a par with those of that bank; and all that was necessary
@@ -2257,9 +2083,9 @@ district. The banks might with facility have resumed specie payments
 during the first year of peace. The efforts of the Secretary of the
 Treasury to induce them to resume proved unsuccessful; and the
 resumption did not take place till after a new Bank of the United States
-had been organized.</p>
+had been organized.
 
-<p>We have had two general suspensions of specie payments, the last at a
+We have had two general suspensions of specie payments, the last at a
 time of profound peace. I was then behind the scenes, had some agency in
 restoring specie payments, and may speak on that subject with knowledge
 and confidence. The obstacles came partly from the Banks, principally
@@ -2268,14 +2094,14 @@ throughout the United States. The mis-named Bank of the United States,
 and the banks under its influence, were, it is true, a formidable
 impediment; and this obstacle is now fortunately removed. Still the
 continuance of specie payments stands, whenever a crisis occurs, on a
-most precarious basis; and if any important place, especially New York,<span class='pagenum'><a name="Page_64" id="Page_64">[Pg 64]</a></span>
+most precarious basis; and if any important place, especially New York,
 happened to break, all the banks through the United States would
 instantaneously follow the example. This is the most imminent danger to
 which the Treasury of the United States will be exposed in time of war;
 and what effect the Sub-Treasury system may produce in that respect
-remains to be tested by experience.</p>
+remains to be tested by experience.
 
-<p>It is impossible to draw any inference respecting Treasury Notes, from
+It is impossible to draw any inference respecting Treasury Notes, from
 what took place in the United States during the confused state of the
 currency in the years 1815 and 1816. The taxes were paid everywhere with
 the cheapest local currency, in Treasury Notes only in the places where
@@ -2289,39 +2115,39 @@ day. In order to give them that character, they should assume that of
 bank notes, bearing no interest and payable on demand. It does not
 require the gift of prophecy to be able to assert that, as the wants of
 Government increased, such notes would degenerate into paper money to
-the utter ruin of the public credit.</p>
+the utter ruin of the public credit.
 
-<p>They may, however, be made a special currency for the purpose of paying
+They may, however, be made a special currency for the purpose of paying
 taxes as gold and silver, and to the exclusion of any other species of
 paper currency. The amount which might be thus kept in circulation, in
 addition to that wanted for short investments, would be limited by the
 gross amount of the annual revenue, and bear but a small proportion to
 it; since one thousand dollars, in silver or in any paper currency, are
-sufficient to effect in one year fifty payments of the same amount.</p>
+sufficient to effect in one year fifty payments of the same amount.
 
-<p>Although the amount kept in circulation may fluctuate according to
+Although the amount kept in circulation may fluctuate according to
 circumstances, the fundamental principle is, that the issue of such
 notes is an anticipation of the revenue, which, after it has reached the
 maximum that may be kept in circulation without being depreciated, never
 can be increased. Be the amount ten or twenty millions, the anticipation
 may be continued, but not renewed; it is not an annual resource, but
 one, the whole amount of which never can exceed that which may be kept
-in circulation.<span class='pagenum'><a name="Page_65" id="Page_65">[Pg 65]</a></span> The operation consists in re-issuing annually the
+in circulation. The operation consists in re-issuing annually the
 amount which is paid off in the year. Whenever, owing to incidental
 fluctuations, the amount to be redeemed by the Treasury exceeds that
 which may be re-issued, the difference must be immediately funded at the
 market price of the notes, so as to keep them always at par or a little
-above par.</p>
+above par.
 
-<p>It is evident, that if the direct tax and internal duties laid in
+It is evident, that if the direct tax and internal duties laid in
 August, 1813, had been imposed in July, 1812; and if the acts of
 January, 1815, which increased both, had been enacted in August, 1813;
 there would have been an addition of at least eight millions to the
 revenue of the years 1812 and 1813; the Treasury Notes which had become
 due would have been paid, public credit would have been maintained, and
-the amount of war loans lessened.</p>
+the amount of war loans lessened.
 
-<p>The principal causes of the fall of public stocks during a war, and of
+The principal causes of the fall of public stocks during a war, and of
 the consequent necessity of borrowing on dearer terms, are a want of
 confidence in Government, and the large amount of stocks thrown in the
 market beyond the natural demand for them. The effect of this last cause
@@ -2338,13 +2164,13 @@ Notwithstanding the deranged state of the finances of the United States
 in 1814, the American stocks had not fallen in the same proportion. Such
 great depreciation is the result of the long continuance of a war. No
 one can say what would have been its progress, had the last war with
-England continued much longer.</p>
+England continued much longer.
 
-<p>There was not, however, at that time, at least in America, any want of
+There was not, however, at that time, at least in America, any want of
 confidence in the Government: no one doubted that it would ultimately
 faithfully discharge all its engagements. Although the General
 Government is in no way responsible for the errors of any of the
-individual States, it is nevertheless certain, that<span class='pagenum'><a name="Page_66" id="Page_66">[Pg 66]</a></span> the credit of the
+individual States, it is nevertheless certain, that the credit of the
 Union has been injured abroad by the failure of several of the States to
 fulfil their engagements, and that no expectation can be entertained of
 being able to borrow money in Europe. It is not less true that the
@@ -2364,9 +2190,9 @@ capital in the new States: they cannot lend; they, on the contrary, want
 to borrow money. This can be obtained in the shape of loans only from
 the capitalists of the Atlantic States. A recurrence to public documents
 will show that all the loans of the last war were obtained in that
-quarter.</p>
+quarter.
 
-<p>Men of property are perhaps generally more timid than others, and
+Men of property are perhaps generally more timid than others, and
 certainly all the quiet people, amongst whom the public stocks are
 ultimately distributed, are remarkably cautious. Prudent capitalists,
 who do not speculate, and consider public stocks only as convenient and
@@ -2375,22 +2201,22 @@ controlled by men whom they consider as reckless, and as entertaining
 rather lax opinions respecting public credit. Yet money will be
 obtained, but on much dearer terms than if public confidence was
 unimpaired. There will always be found bold speculators, who will
-advance it at a premium&mdash;enhanced by the want of competition, and
+advance it at a premium--enhanced by the want of competition, and
 proportionate to the risks they may be supposed to incur. Independent of
 this, it is most certain that the rate of interest at which loans may be
 obtained, will always be increased in proportion to their magnitude. The
 only ways by which these difficulties may be obviated, or at least
 lessened, are perfect fidelity in fulfilling the engagements of
-<span class='pagenum'><a name="Page_67" id="Page_67">[Pg 67]</a></span>Government; an economical, that is to say, a skilful application of the
+Government; an economical, that is to say, a skilful application of the
 public moneys to the most important objects, postponing all those which
 are not immediately wanted, or are of inferior real utility; and an
 increase of the amount of revenue derived from taxation. This has the
 double advantage of diminishing the amount to be borrowed, and of
 inspiring confidence to the money-lenders. In all cases, direct loans
 will be preferable to, and prove a cheaper mode of raising money than
-the over issues of Treasury Notes.</p>
+the over issues of Treasury Notes.
 
-<p>The Act of July, 1812, which doubled the duties on importations,
+The Act of July, 1812, which doubled the duties on importations,
 afforded a resource which, on account of the high rate at this time of
 those duties, cannot now be resorted to. Duties may, however, be levied
 on the importation of Tea and Coffee, and perhaps some other articles
@@ -2398,9 +2224,9 @@ now duty free. Other modifications may be found useful, but it may be
 difficult to ascertain, even without any regard to protection, what are
 the rates of duties which should be imposed in time of war on the
 various imported articles, in order to render the revenue derived from
-that source as productive as possible.</p>
+that source as productive as possible.
 
-<p>It must also be observed that if, on account of the credit then allowed
+It must also be observed that if, on account of the credit then allowed
 for the payment of duties on importations, the Treasury had, when the
 war of 1812 commenced, a resource in the revenue previously accrued but
 not yet collected, which does not now exist; on the other hand the
@@ -2408,9 +2234,9 @@ United States were still encumbered with a considerable portion of the
 Revolutionary debt, and the payments on account of its principal and
 interest amounted during the years 1812, 1813, 1814, to about
 $11,000,000, whilst the annual interest on the now existing debt is less
-than one million.</p>
+than one million.
 
-<p>The direct tax of the year 1815 amounted to $6,000,000, and the revenue
+The direct tax of the year 1815 amounted to $6,000,000, and the revenue
 which accrued during the same year, on the aggregate of internal duties,
 as increased or imposed at the same time, amounted to about the same
 sum. That year is also the most proper for a comparative view of the
@@ -2419,56 +2245,23 @@ business increased the amount derived from the duties connected with the
 commerce of the country, much beyond that which could be collected in
 time of war; whilst, on the other hand, the excise on spirits was much
 less productive. The nett revenue derived from internal duties, which
-accrued during that year was in round numbers, about<span class='pagenum'><a name="Page_68" id="Page_68">[Pg 68]</a></span></p>
+accrued during that year was in round numbers, about
 
-<table summary="nett revenue derived from internal duties">
-  <tr>
-    <td colspan="2" class="left">Excise on spirits</td>
-    <td>$2,750,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Licences to retailers</td>
-    <td>880,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Sales at auction</td>
-    <td>780,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Stamp duties</td>
-    <td>420,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Tax on carriages</td>
-    <td>150,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Refined sugar</td>
-    <td>80,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Several manufactured articles</td>
-    <td>840,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Household furniture</td>
-    <td>20,000</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="left">Watches worn by individuals</td>
-    <td>80,000</td>
-  </tr>
-  <tr>
-    <td colspan="3">&mdash;&mdash;&mdash;&mdash;&mdash;</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td>Total&nbsp; &nbsp; </td>
-   <td>$6,000,000</td>
-  </tr>
-</table>
 
-<p>The three last items were those added on Mr. Dallas's recommendation to
+     Excise on spirits             $2,750,000
+     Licences to retailers            880,000
+     Sales at auction                 780,000
+     Stamp duties                     420,000
+     Tax on carriages                 150,000
+     Refined sugar                     80,000
+     Several manufactured articles    840,000
+     Household furniture               20,000
+     Watches worn by individuals       80,000
+                                   ----------
+     Total                         $6,000,000
+
+
+The three last items were those added on Mr. Dallas's recommendation to
 the first items laid in 1813, but the rate of which was increased, also
 on his recommendation. The manufactured articles not before taxed on
 which the new duties were laid were, pig and bar iron, nails; wax and
@@ -2480,9 +2273,9 @@ obnoxious. Yet no voice was raised against them; and so far from
 becoming unpopular, Mr. Dallas, by his courage and frankness, acquired a
 well-earned popularity. No stronger proof can be adduced of the
 propriety of telling the whole truth and placing an entire confidence in
-the people.</p>
+the people.
 
-<p>The only important measure omitted at that time, was an Act of Congress
+The only important measure omitted at that time, was an Act of Congress
 ordering that all the Treasury notes actually due and not paid should be
 immediately funded at their nominal value; that is to say, that for
 every one hundred dollars in Treasury notes, the same amount of funded
@@ -2496,7 +2289,7 @@ first and fundamental element of public credit is the faithful and
 punctual fulfilment of the public engagements; and the payment of the
 Treasury notes, when becoming due, was as necessary as that of the
 interest of the funded debt, which never was suspended during the war.
-As an immediate and considerable issue of <span class='pagenum'><a name="Page_69" id="Page_69">[Pg 69]</a></span>Treasury notes was absolutely
+As an immediate and considerable issue of Treasury notes was absolutely
 necessary, it was not sufficient that they might be convertible into a
 funded stock, which was already much below par, since that would be in
 fact an issue of depreciated paper. The Act should, therefore, have
@@ -2510,160 +2303,63 @@ account of the primary importance, if placed hereafter in a similar
 difficult position, of adhering rigorously to those principles
 respecting the legitimate use of Treasury notes and the punctual
 discharge of every public engagement, which are absolutely necessary for
-the maintenance of public credit.</p>
+the maintenance of public credit.
 
-<p>Since a direct tax of six millions could be raised thirty years ago,
+Since a direct tax of six millions could be raised thirty years ago,
 there can be no difficulty in raising one of nine millions at the very
 beginning of the war: this must be gradually increased, but would be
 most heavily felt if beyond eighteen millions. Should an equal sum be
 raised by internal duties, the annual loans wanted after the first year
 of the war would be lessened in the same proportion. The following
-estimate may assist in forming a correct opinion on that subject:&mdash;</p>
+estimate may assist in forming a correct opinion on that subject:--
 
-<table summary="annual loans wanted">
-  <tr>
-    <td colspan="3" class="left">The stamp duties, those on sales at auction, the</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">licences of retailers, and the carriage tax,</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">which accrued in the year 1815, amounted</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">together to $2,230,000, and may be now</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">estimated at twice as much</td>
-   <td>$4,460,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">The aggregate annual value of leather, boots,</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">shoes, and other manufactures of leather; of</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">hats, caps and bonnets; snuff and cigars;</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">paper and playing cards, manufactured in the</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">United States, are estimated by the last census</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">at fifty-three millions, a tax on which of ten</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">per cent would give</td>
-    <td>5,300,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">On the same authority, three millions pounds of</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">spermaceti and wax candles would yield, at</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">five cents per pound,</td>
-   <td>150,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left"><span class='pagenum'><a name="Page_70" id="Page_70">[Pg 70]</a></span>Three millions two hundred and fifty thousand</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">pounds of refined sugar, at the same rate</td>
-   <td>160,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">Five hundred tons of pig and bar iron, nails and</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">brads, at two dollars per ton</td>
-   <td>1,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="3" class="left">The gross amount of spirits and beer manufactured</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">in the United States, is stated in the</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">census at sixty-five millions of gallons; but</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">the happy influence of the Temperance cause</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">has probably reduced this amount to less than</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">fifty millions, a tax on which of ten cents per</td>
-   <td></td>
-  </tr>
-  <tr>
-    <td>&nbsp;&nbsp;</td>
-    <td colspan="2" class="left">gallon</td>
-   <td>5,000,000</td>
-  </tr>
-  <tr>
-    <td colspan="4">&mdash;&mdash;&mdash;&mdash;&mdash;</td>
-  </tr>
-  <tr>
-    <td colspan="4">$16,070,000</td>
-  </tr>
-</table>
 
-<p>I have inserted only such articles as were heretofore taxed, and have no
+     The stamp duties, those on sales at auction, the
+       licences of retailers, and the carriage tax,
+       which accrued in the year 1815, amounted
+       together to $2,230,000, and may be now estimated
+       at twice as much                                    $4,460,000
+
+     The aggregate annual value of leather, boots,
+       shoes, and other manufactures of leather; of
+       hats, caps and bonnets; snuff and cigars;
+       paper and playing cards, manufactured in the
+       United States, are estimated by the last census
+       at fifty-three millions, a tax on which of ten
+       per cent would give                                  5,300,000
+
+     On the same authority, three millions pounds of
+       spermaceti and wax candles would yield, at
+       five cents per pound,                                  150,000
+
+     Three millions two hundred and fifty thousand
+       pounds of refined sugar, at the same rate              160,000
+
+     Five hundred tons of pig and bar iron, nails and
+       brads, at two dollars per ton                        1,000,000
+
+     The gross amount of spirits and beer manufactured
+       in the United States, is stated in the
+       census at sixty-five millions of gallons; but
+       the happy influence of the Temperance cause
+       has probably reduced this amount to less than
+       fifty millions, a tax on which of ten cents per
+       gallon                                               5,000,000
+                                                           ----------
+                                                          $16,070,000
+
+
+I have inserted only such articles as were heretofore taxed, and have no
 means of indicating such other as might be added or preferred; nor must
 I be understood as recommending any specially, or in reference to the
-rates of duties to be imposed on any one.</p>
+rates of duties to be imposed on any one.
 
-<p>It has been very generally asserted that men of property were averse to
+It has been very generally asserted that men of property were averse to
 the war because the losses and burthens which it must occasion fall
 exclusively upon them; and that poor men were generally in favor of war,
-because they had nothing to lose.</p>
+because they had nothing to lose.
 
-<p>It is true that the first great loss, caused by the war, will fall
+It is true that the first great loss, caused by the war, will fall
 immediately on those interested in the maritime commerce of the United
 States, either as owners, insurers, or in any way employed in it.
 Considering the imminent danger to which is exposed the immense amount
@@ -2679,7 +2375,7 @@ so low that all the farmers must lessen the amount and with it their
 income, whilst they must pay dearer for all the articles which they are
 obliged to purchase. The distinction between rich and poor is vague. The
 most numerous class in the United States is that of the men who are at
-the same time owners and cultivators of the<span class='pagenum'><a name="Page_71" id="Page_71">[Pg 71]</a></span> soil, and who have but
+the same time owners and cultivators of the soil, and who have but
 small properties and a very moderate income. Every diminution of this,
 whether from the want of a market or from any additional tax, is in that
 and the corresponding class of mechanics, attended with the privation of
@@ -2690,9 +2386,9 @@ less, or at most, must retrench only some luxuries. Thus the unavoidable
 losses and burthens which are the consequences of a war, fall with the
 greatest weight on those who derive their means of existence from the
 pursuits of industry, and whose industry alone contributes to the
-increase of the general wealth of the country.</p>
+increase of the general wealth of the country.
 
-<p>But this is not all. Exclusive of those who, either as contractors, or
+But this is not all. Exclusive of those who, either as contractors, or
 in some other way, are concerned with the large supplies wanted for the
 support of the army and navy, there is a class of capitalists who are
 enriched by the war. These are the money lenders, who shall have been
@@ -2700,9 +2396,9 @@ bold enough to take up the public loans: unless indeed it should be
 intended to break public faith, and, on the return of peace, to question
 the obligation to pay them, upon the pretence of their enormous profits.
 What these profits are may be again illustrated by the example of Great
-Britain.</p>
+Britain.
 
-<p>It has already been seen that, whenever a war is one of long
+It has already been seen that, whenever a war is one of long
 continuance, the British Government may at first borrow at par, and ends
 by being compelled to sell its stock at the rate of fifty per cent of
 its nominal value; which gives for the whole of the war loans an average
@@ -2717,14 +2413,14 @@ after the peace, and may now, receive from ninety-seven per cent to par,
 in gold or silver, for that same stock for which they gave but
 forty-four. Thus, assuming the public debt of Great Britain at eight
 hundred thousand pounds sterling; not only was the whole of that
-capital<span class='pagenum'><a name="Page_72" id="Page_72">[Pg 72]</a></span> destroyed by the wars; not only are the British people subject
+capital destroyed by the wars; not only are the British people subject
 now, and it would seem for ever, to a burthen of taxes sufficient to pay
 the interest on that debt; but of the eight hundred millions thus
 consumed, only six hundred were received by the public, and the other
 two hundred millions made the rich capitalists, who had advanced the
-money, still richer.</p>
+money, still richer.
 
-<p>There is another class of men who may occasionally derive wealth from a
+There is another class of men who may occasionally derive wealth from a
 war. Privateering consists in robbing of their property unarmed and
 unresisting men, engaged in pursuits not only legitimate but highly
 useful. It is nothing more nor less than legalized Piracy. For this the
@@ -2733,13 +2429,13 @@ practice of all nations justifies them in resorting to those means, in
 order to make the enemy feel the calamities of war. But the necessity of
 resorting to means immoral in themselves affords an irrefragable
 argument against precipitating the country into war for slight causes,
-indeed against any war which is not purely in self defence.</p>
+indeed against any war which is not purely in self defence.
 
-<p>It is equally untrue to assert that the poorer class of people, by which
+It is equally untrue to assert that the poorer class of people, by which
 must be meant all the laborers, or generally those who live on their
-wages, have nothing to lose by the war.</p>
+wages, have nothing to lose by the war.
 
-<p>In this, and other large cities, for every thousand merchants, or men of
+In this, and other large cities, for every thousand merchants, or men of
 capital who may be injured or thrown out of business, there are ten
 thousand men living on wages, whose employment depends directly or
 indirectly on the commerce of those cities. The number of common
@@ -2753,9 +2449,9 @@ community. There is no man of pure and elevated feelings who does not
 ardently wish, that means could be devised to ameliorate the state of
 society in that respect, so as that those who live by manual labor
 should receive a more just portion of the profits, which are now very
-unequally divided between them and their employers.</p>
+unequally divided between them and their employers.
 
-<p>But even if the rate of wages was not materially affected, yet<span class='pagenum'><a name="Page_73" id="Page_73">[Pg 73]</a></span> when it
+But even if the rate of wages was not materially affected, yet when it
 is said that the poor have nothing to lose by war, it must be because
 their lives are counted for nothing. Whether militia, regulars, or
 sailors, the privates, the men who actually fight the battles, are
@@ -2768,9 +2464,9 @@ almost impossible that a private soldier should ever rise to the rank of
 an officer. In the course of a war thousands are killed, more die of
 diseases, and the residue, when disbanded, return home with habits
 unfavorable to the pursuits of industry. And yet it is asserted that
-they are predisposed for war, because they have nothing to lose.</p>
+they are predisposed for war, because they have nothing to lose.
 
-<p>As yet, however, we have had recourse only to voluntary enlistments for
+As yet, however, we have had recourse only to voluntary enlistments for
 raising a regular force; the pay or bounties must be increased in order
 to obtain a sufficient number; and thus far to become a private soldier
 has been a voluntary act. The calling of militia into actual service is
@@ -2790,9 +2486,9 @@ war he requires, at the rate of three men for each hundred males, which
 answers nearly to that of ten for every one hundred men enrolled in the
 militia; and he also grants to the serfs the same privilege intended to
 be allowed to a portion of the militia by the new project, that of
-selecting the recruits amongst themselves.</p>
+selecting the recruits amongst themselves.
 
-<p>If it be any consolation, it is certain that, although we may not<span class='pagenum'><a name="Page_74" id="Page_74">[Pg 74]</a></span>
+If it be any consolation, it is certain that, although we may not
 invade England, the evils arising from the war will be as sensibly and
 more permanently felt by Great Britain than by the United States. Her
 efforts must be commensurate with those of the United States, much
@@ -2801,9 +2497,9 @@ on account of her distance from the seat of war. Such is the rapidly
 progressive state of America, that the industry of the people will, in a
 few years of peace, have repaired the evils caused by the errors of
 Government. England will remain burthened with additional debt and
-taxation.</p>
+taxation.
 
-<p>An aged man, who has for the last thirty years been detached from party
+An aged man, who has for the last thirty years been detached from party
 politics, and who has now nothing whatever to hope or to fear from the
 world, has no merit in seeking only the truth and acting an independent
 part. But I know too well, and have felt too much the influence of party
@@ -2828,7 +2524,7 @@ there were but two of those party meetings, called for the purpose of
 deliberating upon the measures proper to be adopted. The first was after
 the House had asserted its abstract right to decide on the propriety of
 making appropriations necessary to carry a treaty into effect, whether
-such appropriations should be made<span class='pagenum'><a name="Page_75" id="Page_75">[Pg 75]</a></span> with respect to the treaty with
+such appropriations should be made with respect to the treaty with
 England of 1794. The other was in the year 1798, respecting the course
 proper to be pursued after the hostile and scandalous conduct of the
 French Directory. On both occasions we were divided; and on both the
@@ -2848,12 +2544,16 @@ the difficulty for honorable men to disenthral themselves from those
 party sympathies and habits, laudable and useful in their origin, but
 which carried to excess become a tyranny, and may leave the most
 important measures to be decided in the National Councils by an
-enthusiastic and inflamed minority.</p>
+enthusiastic and inflamed minority.
 
-<div class="footnotes"><h3>FOOTNOTE:</h3>
+FOOTNOTE:
 
-<div class="footnote"><p><a name="Footnote_3a_3a" id="Footnote_3a_3a"></a><a href="#FNanchor_3a_3a"></a><a name="Footnote_3_3" id="Footnote_3_3"></a><a href="#FNanchor_3_3"><span class="label">[3]</span></a> Estimated for 1812.</p></div></div>
+[3] Estimated for 1812.
 
-<div>*** END OF THE PROJECT GUTENBERG EBOOK 51843 ***</div>
-</body>
-</html>
+
+
+
+
+End of the Project Gutenberg EBook of The Oregon Question, by Albert Gallatin
+
+*** END OF THE PROJECT GUTENBERG EBOOK 51843 ***
